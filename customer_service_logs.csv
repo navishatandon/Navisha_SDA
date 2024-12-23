@@ -1,0 +1,1001 @@
+interaction_type,customer_id,agent_id,call_duration_seconds,is_failed,is_ok
+Email,a5d4f4f2-0601-4aa2-b9ea-d0b980853d88,60736463-1a44-407b-b398-d05408300b3f,1108,True,True
+Chat,3c4ff8b1-2feb-45ec-843b-709d5ddec446,c7f4b0d0-1bf3-4209-a89e-8c363fa5587e,3330,True,False
+Email,4faaa878-3521-4e07-a844-2c1805ef8a5a,1b23de00-06bb-4136-82d7-099f516e2e73,2744,True,True
+Chat,61119128-b7d8-477e-9629-e3710d780dcf,dfd8d974-ab1a-4612-afa3-cacbf0395975,3238,True,True
+Chat,3e6480fd-b2d5-4c54-890d-f714a9d5143f,9f3cea4f-b191-4ebb-9dc2-149343dcb7a0,112,False,False
+Email,2d23fff7-72d8-44bc-b8a2-78319fdee171,e80dfeb5-7501-47dd-940f-604811dd7f6c,583,False,False
+Email,a7e56e40-a99f-4028-a870-e4431bfb39a3,d357441e-c86c-497d-9a06-67fdcab813f1,191,True,True
+Voice Call,ba8fdbde-d070-4f55-abe1-54ccd2249e10,7a244cbf-3850-454c-9e49-6ec8c2b89f4d,2198,True,True
+Voice Call,fda50ddf-dd87-48ec-aa60-ce352ef4d81f,9d5fb825-ed16-4dda-9022-389472c93944,3446,True,False
+Email,afb9421b-3c47-40c6-b264-835989215301,c57832e7-2a88-4ad3-9397-3de91b5f2a25,3050,False,False
+Email,5bbdc15a-7d41-4437-ac7e-fda66c7a2e7e,89ac8744-6c85-4232-859b-990183858d95,3517,True,True
+Video Call,9e768520-8f7f-4c13-9383-69d58548e583,7bb4a1be-f506-4a30-8842-9d4a6a3bba39,3060,False,False
+Video Call,ad60222c-dde3-450b-b0fa-1fa6a205b339,9de7355c-d8a5-47e7-b9e4-fbfa9a6993a4,1188,True,False
+Chat,3d6522a2-c267-4a4a-a126-25cf40b40f89,c2c42f4c-21c0-4213-9f35-86f6f17090ca,1589,False,True
+Voice Call,5c3b85cf-41cd-46bb-85e9-4912f1babdd2,c702c6b5-983b-4193-a997-b9ef366991e8,1183,True,False
+Email,9939c71b-9820-4ed9-b6f8-bdb5efa0bad2,6b5b3c83-9ce8-4e0b-86c3-29fc69ab38cc,693,True,False
+Voice Call,ce69120a-18e8-4c8d-8e92-bdc36f7254ad,55f5b982-bbed-4199-932e-b4502714c2a5,2691,True,False
+Video Call,8ccb28b8-ae4f-40f7-85e5-5eef8164e728,d86b850c-69f2-4055-b3d9-1969c83687eb,3066,True,False
+Email,2195d0f5-a098-432d-b9e5-f2871e2f5d86,bd0b90f1-21e9-4f20-9152-e8449e06bde8,95,True,False
+Email,81e30d6a-ec84-4b4a-b05a-3fab06900c82,05fcde4a-cf94-410b-a8d6-5173098309f0,2263,True,True
+Email,730deb12-7139-4c71-a070-45d779f2d147,99677dae-bae8-486e-aa82-e09339c984c9,3341,True,True
+Chat,7c0e7b27-974b-491b-a539-c71419ce363f,4b9087dd-034f-4e94-8d33-93825838e809,377,True,True
+Video Call,b24ce067-d9d1-493d-90ba-f16e3426c7fa,e9e266c3-c3b1-4f6a-a6e4-c3270f07f57f,2043,True,False
+Video Call,6ee11498-1778-4311-a5a2-19e8fb69b173,46386115-4098-4e7c-b50d-f8d69ff9c647,2506,True,False
+Voice Call,d202604e-115c-40ba-bd67-4fb1e38a1506,06489e23-4e79-4020-adae-13043fe4ee08,1787,False,False
+Chat,7700f922-b9fe-4266-929f-9fb06b1643f1,607aabdc-15b3-44cb-a814-ffcf97a21cac,1771,False,False
+Video Call,9f937039-2674-4724-a1df-13c8c8e3a697,2489d020-af66-44a4-aaa0-c699f68f527a,922,True,True
+Voice Call,f25ef9d3-0520-4191-901a-4e8f0ece3385,259eb54c-8cad-4a1e-b7a0-695e9af435fe,2872,True,False
+Voice Call,108ef32c-54ba-47eb-bacd-da48b66cb44d,f5322a31-2058-4bda-bc00-020e3111da26,1449,False,True
+Video Call,5e42d1cf-b0f0-46ee-8406-0264b1878517,9a0160bb-7985-4174-b4f9-a339a2f53ceb,2965,False,True
+Email,41557cda-b8dd-4e81-9a8f-540de5435e2a,8849d0fb-af78-4541-abe4-fd1960035c69,1402,True,False
+Voice Call,bacdd66e-763e-4d65-b0b2-e250703a04fa,742b88a3-807f-4f87-9e07-2630e81c02e8,1746,False,True
+Chat,882ee93d-f7c7-49c7-96e3-48ae0ac83567,3748c1a7-ed18-497f-bd3d-8915a43b84cc,3152,False,True
+Chat,ff47b939-f52f-4ccd-bc5d-5361bb3e13b9,8a3f4d59-bbda-4795-9f6f-c7dcb3e82741,2558,True,False
+Chat,bb82e469-9dc0-43b3-8c72-0a349749186f,00d24892-f1ad-497d-afa5-af4107d12b56,2762,True,False
+Chat,6d21afbd-d962-4787-82cc-3bbbc0820264,a4db92dd-ba07-44cc-980c-a9d7a83b137d,1636,True,False
+Voice Call,74822f52-0e9e-4a3b-8f7c-2319d0f04e5d,28edcbff-b569-42e6-9ff3-e1a924ed0dc9,839,True,False
+Voice Call,d724869a-b624-4cb4-8e16-0f71b62c4015,a5c07795-cfdc-4cea-a682-240551a8cc10,755,False,True
+Video Call,941d67e4-98d3-4923-873c-ae5095502a4c,60491832-80a8-4b8b-ae6b-ebdda95be05b,2729,False,False
+Email,06601c55-c7e0-41d8-9ec9-21f1fea333ab,c567f3fc-aeda-460f-a343-90a9a7d6bb9e,531,False,True
+Email,e000258a-435e-4726-82ac-d8f998d480b8,7ab2c799-a18a-4fe2-9b27-240cc1e29168,2514,False,False
+Email,97e57240-d04d-4c80-a57d-53c1ede0a181,29eb510d-9ace-48d7-8afb-01bd20b16e2d,708,True,True
+Voice Call,a449f4a4-0a57-4ddb-85db-78425db71476,8b8b1b72-e313-4d95-ad86-0f3bdb4750ac,3248,False,True
+Video Call,1b975b14-e032-4862-8f4a-b8008545c9c2,53a24595-a02d-4494-9239-ec034e1e5729,2095,False,True
+Email,62e9d65b-9375-4095-be2e-5a9578af6e91,53cefc2b-75ec-4a09-8fff-ab6666918a24,592,False,True
+Voice Call,39ef7303-91cf-4b73-92b1-0a6fb0fda075,135c8625-7363-431a-8aff-0b6674b9f36a,1378,True,False
+Email,5a879191-da76-4f3f-a4f7-e9b75d0b0e46,4ec18bcf-825a-46fc-bb01-f83256e37fe8,2540,False,False
+Chat,4a5f49dd-c6b3-4547-98f6-a3bb4d2fb78a,6373d817-2f72-46aa-a6e1-48477c6c6efc,1287,False,False
+Voice Call,51aef5ae-e37b-438c-8cec-8d73ac52fd6d,3577153a-96cb-4c10-a7e5-820f973ea4b6,2491,False,False
+Email,f37c12c7-e7a5-4178-b587-7596e66322fe,f95aacc9-4111-4418-82c7-3a4ddc387cbb,1989,False,False
+Video Call,f8f6f03d-550f-4bd9-bd7e-7569b0e544cd,3dc8b352-d36d-4666-ab58-4d4735a3088b,390,False,False
+Chat,5f8dd328-cb36-42f8-b3d8-b8297b568cfa,eaa6fa24-2b29-41b6-b50a-356da3ea5911,683,True,True
+Email,6b43b463-fe5b-41fc-886e-3c988cb551ad,49be610e-ab08-4a96-86aa-56cd0bb0bf63,3533,False,True
+Chat,909e73d9-ba45-4747-a649-bc5c7f3ea941,bd47440d-92d2-43da-a4bd-ccc85330b0fa,2656,True,False
+Video Call,9783a5a7-5756-4cdd-b0e7-ac2223794e2a,55f90757-8f6f-4966-aa7c-1463cd34f85e,615,True,False
+Video Call,6ff57b7e-2efb-4e13-9053-a9473a203868,5fd45070-d9cc-476d-aa86-12cdca2bd9f4,663,False,False
+Chat,55fa2056-7c07-463d-b9a7-ec9a54b6cae5,6144e824-7526-4a48-a927-3858692e60e4,3006,False,False
+Email,9953dd1c-ec51-40ce-b19f-0b734b6d59e7,8e96a4ef-01f7-4c80-9617-dc9e3ab4eeb5,1601,False,False
+Email,b96864b8-5c7e-466a-bd78-19ce30e565b1,bb9f9390-e4da-439b-b597-4f2e1a5f00ff,1662,False,True
+Chat,88d3ddb3-495a-4f2b-b62a-2883fb61c0c4,4c7ff01d-d2c3-434a-a6a4-32ee23b2f6bf,235,False,True
+Voice Call,78c4891f-dfe6-499c-b7a5-945e166a3cb9,33bf5f9a-f8e1-4d22-94fd-8e70cba7635d,2217,False,False
+Email,29f661d8-2fdb-4dc4-b10c-e574dce09aa3,57953406-5061-49e7-bd29-731812139588,3372,False,True
+Email,908c387b-677c-446b-b56e-1361758f0129,87060d67-5477-40ed-830e-15243cde28b9,162,True,True
+Chat,868a003d-e17e-4056-8f78-1f148be7e6a7,69635d60-93de-4132-a674-00b24c72e28c,900,True,True
+Voice Call,eadc0bd8-10c8-4588-ba88-2594647a585b,624fdd38-b316-45a9-8b55-411ba007ef4c,1718,True,False
+Chat,c2e14cdf-e470-48d3-97eb-ed1863326214,e3072bce-9aa3-4625-ab64-2930368491d6,2357,True,False
+Chat,8498dc29-ecec-4774-a6a2-13b427070952,f5176ca1-0eb1-4748-ae2d-07b124693715,1899,True,True
+Email,0ef3cca3-efb6-4f30-86ef-1cf91564d51a,15c089ab-176e-430a-8cb0-f5305689d6e0,2771,True,False
+Chat,300fc249-3f5a-4bc4-a96c-9633afc4e649,a4a2dc48-13f3-4fc5-8a73-545fd4b21f3e,2816,False,True
+Voice Call,8f95d88b-6c48-4753-9153-7951070c9ed2,71f6cbd4-c604-45ca-8669-feda18a97002,1211,False,False
+Email,7e75b500-533b-4fb3-bba5-0fa18fd3f072,85f8439c-bbe1-48aa-822a-a342171318e8,3392,False,True
+Video Call,00f513c4-2910-4f9e-889d-bbcf1c23f20a,bf233d2d-84fa-4486-b676-e9e90d09ee81,959,True,False
+Video Call,2006d419-7242-468d-b33e-cd1997def807,9bfbbd10-993b-4b75-89ed-d67f2a61d9a5,372,False,True
+Chat,b7cfd257-18b6-4f31-9a40-18d1544a7d95,93bd70d8-e293-480c-ac52-dc4c29347973,3437,True,True
+Video Call,9fd9302c-1292-4438-8203-ba31bd3bd80d,7d788f55-a1cc-4eb5-a372-c0adaf444ed4,402,False,False
+Video Call,157f3c75-a832-49d3-b955-3ac533d38304,9df1f8ec-e968-4418-958a-98088f345fd0,1786,True,False
+Voice Call,1498f1d7-7a74-46df-a6dc-3bffe271c6e2,76c631fe-67c8-4cfd-a3ad-aaf1166a1c3e,522,False,False
+Chat,b85a3fc1-3ce6-4c77-ba14-e2b67dacc4e0,d7cf6d9b-f9fc-429f-956b-c9c199fc4d97,433,True,True
+Video Call,d5a335c5-ddeb-4ae6-87f4-cdf9a1e84527,fee83f81-b097-4493-965d-80f865fc3190,2516,True,False
+Email,c1f94c5a-1c27-4878-9157-946365b19af4,ef3032be-4e4e-4e8e-bed5-5df358b430f3,2606,True,True
+Email,7b887976-f2a5-456d-aa7f-94cddf3824a5,c8228c8f-2858-48c1-942d-d264d4cfefa5,1053,False,False
+Voice Call,0af1af06-2982-41fe-8e41-5bc9a4e2b9e2,d0981fb5-5ea7-42df-a44f-7baf93e7d42f,2112,True,True
+Email,b7e24d67-1c56-42fb-a017-4a12c7c9a637,d512bc94-fe17-4902-96db-80112c712f7f,2374,True,True
+Email,a31f1223-8cb5-469b-a269-0ea23b3ee236,0bded62e-e629-439b-a2d3-b05ef0038e7f,802,False,True
+Chat,ae204466-c685-4cf1-9cc8-4acba44eaed9,25a5f783-9436-4dc9-ba42-539f8039af43,2063,True,False
+Voice Call,a1ecb93f-f639-4f4c-9193-cbc859c0ae7b,9c86c668-f71c-4214-8c57-7163f4edc202,2912,True,True
+Video Call,abf4ac0e-95a6-43b1-ba38-d9bca6a17eec,d3502f11-8b21-4b13-a208-377883d6152b,378,True,False
+Email,caafb307-35eb-4cfe-8426-298ffa208e6a,9d904ece-77d4-4aa7-ba85-02edc0f525fb,644,False,False
+Email,0d106494-84b4-44b5-abaf-3c2b3898af34,eb88c837-eefc-428f-9be2-d8d4949b6162,2733,True,False
+Chat,33387cce-4e9e-4985-a87a-02abc2b34839,f00f0cd3-3452-4dd8-9c63-d39babc3e0ea,505,False,False
+Voice Call,3b4150cc-bc22-4751-b85c-a611ace832a4,28b74b71-8fe6-4ff3-87c0-c06aec53fa66,3189,True,True
+Email,429f727b-7cda-49ad-afb2-1fb5636e5a7f,f9a5376e-0cc7-4010-9653-ed251209615c,655,False,False
+Video Call,62288b76-dffe-49e7-ab18-24670692bcbf,76bbd6fe-4167-4285-b748-72e622044fbb,1747,False,True
+Voice Call,f1812b22-2461-4c10-9e9f-8baac951195f,122c164d-e7d1-43f9-bbbd-f2b1c4014cc4,1646,False,True
+Chat,7428f560-2c0f-4cc4-95b8-cd784bd65fef,c9ff1388-ef25-4d79-8b70-c9a2b9f958ef,1547,True,True
+Video Call,7e3939f7-ab1f-4b2f-ab35-7a9b26272ab1,cc157c01-e6bc-4ff2-a15a-4c96c2f117b8,629,True,False
+Voice Call,a97d9293-450c-45d0-a970-d9c87d92cfce,ce2e83c3-edd3-436e-a275-56eb4073e67c,3284,False,True
+Video Call,f07b42c7-9b95-418c-9b56-68500d64e44d,be2187b4-53d3-4809-ad4c-42ac2be30bde,2298,False,True
+Chat,95713f47-6b6c-42da-9f42-9b0d842ba06f,f1e2fd3b-4839-48a8-9242-d987550245d1,1381,True,True
+Video Call,2954a194-2666-4069-b8e6-c64f98578b39,21534967-bc9e-4f4b-9acb-b8c2ab42bf96,1951,False,False
+Video Call,240fd765-c695-4d73-a89f-1532689bccf2,37df515e-4201-4e05-a6e1-05e6ab9476b5,2979,True,True
+Video Call,5e3516df-9f81-439e-bb41-2405b71b34cb,2d4a179e-5ba7-45c0-921b-3b7e05dbb8bd,1453,True,False
+Voice Call,a94224e2-4bc2-4869-82b3-e67b864966be,92cff565-f9fb-4a3c-8ccb-b7f135078a07,2601,True,True
+Chat,21161f5e-fe27-403a-9232-754fe2c2508a,90134ec7-859a-412d-9222-86443d80e4dc,2257,True,False
+Email,c61ff91c-bf85-4edf-ab4c-0f8d0a8a57d7,365fd4e1-c939-4ff7-a8ef-e5ce84aa713a,361,True,True
+Chat,8f8e8109-dacf-4c17-b474-943e79855436,560a9248-e167-4f5b-968f-c7379f3e216e,454,True,True
+Voice Call,251097a8-d9f6-411b-9318-20042ec6c4de,a7475d4c-ba30-4d96-a6f6-d4c7a9206c02,1016,False,False
+Email,1319cdbc-de24-415d-8b16-56d3a7580902,b15e30fd-6322-4e78-80d2-958f62c79b0d,1221,True,False
+Email,0a265edf-d6e1-4b4d-9f5d-6f1103ec0723,b56dc6b7-d22b-4763-a97e-e11446858c03,1912,False,False
+Video Call,bd186f62-c65b-463f-ab38-8da56254708d,ca3959bb-4764-4ef7-aaac-47b0d2ee887a,977,False,False
+Email,a2061925-58e7-40f8-962e-da2feae1830f,ebb688fc-99fe-48d3-8761-dc2318edab81,3486,False,True
+Email,c4ac94cf-6421-4bac-9fde-cd7a84a22734,53807501-86ef-4934-9e3d-0b01c837edf6,494,False,True
+Email,9243cbc2-e81a-4e92-8606-ec789a60c2e6,a2f1afd3-473d-46bb-9b1e-8c9c419d4a83,2652,True,False
+Video Call,e8036272-4130-499c-a7dd-89554a263202,270826c2-1143-4021-a681-5f04cb82f7a6,1561,True,False
+Chat,7fabf657-200b-4cf2-8de4-ad64c49042b1,31af6afa-008b-4733-9592-842b376c1c83,1104,False,False
+Voice Call,70150913-a321-4b2d-86b1-70e0b5b419ed,7c53495e-c57c-46c1-95ad-7368f0538649,447,True,False
+Video Call,d409851f-9aee-46a0-a8ed-726b72c3d7ba,2a18e803-93ab-4e63-8d55-c614547bda3d,447,True,False
+Video Call,89a02b08-4693-4cd7-b5ab-e903e0d67df8,553f581a-b88d-4378-bf75-ef63d1f219fc,633,False,True
+Email,8822fa57-327d-420a-92d6-f688fddc7614,d0ada465-b1bf-43a9-b0f0-b2ec4a6612bd,2759,True,False
+Voice Call,55a911c7-abe6-4970-b19e-78e4528690bd,64994cfc-c132-47a2-a716-b96c7217f19d,1119,False,True
+Video Call,2bb43988-6459-4603-a417-cc03172114e3,7ef0a80f-1c53-4c20-ba74-8324151f354b,842,True,True
+Voice Call,5020e19d-2b51-4675-b09f-bf4c03a4bbfd,8e251fd9-d942-41a5-918f-efadef0f9781,1971,False,True
+Chat,74192c95-3a42-4366-9ec4-e2d1567f96ce,7ae5be8d-b2d6-41fa-851a-14f113c11cea,2812,False,True
+Video Call,f1d72c26-f096-4f6e-9d68-966a69ddb3e1,73602317-f8c3-45b0-97fb-0e3ee1e4a083,592,True,False
+Video Call,557d64dd-00fa-40a2-93e2-3bbd09e9ae7f,31643819-6af5-46c7-a37e-82b0802be12e,3047,True,True
+Voice Call,3abc5dc1-c2d3-4dd9-8972-30f38fdf4ec2,726e4ac1-2685-4294-affb-6fac2dcc7580,1479,True,False
+Chat,1f976f35-f56f-44c5-9b88-ab361218225d,9ff8a35c-6986-40c0-a154-114c7478d4f1,2193,True,True
+Chat,afeb3b05-9152-461b-9b5a-093116e1945d,d988ff17-a8ab-482d-85c3-9fae08a5bf68,1643,True,True
+Voice Call,4caa1fcf-1992-4057-8dc7-28d0eea39d43,46c62d36-e5c1-4106-9d99-dae7599893b2,1506,True,True
+Email,6b89b693-5249-4a9e-8a80-3c36ced7950d,f63ec84d-efff-4bab-94a5-14a08d1f0445,3578,True,True
+Chat,c74dbcb1-d525-421c-b468-318634ce254a,a8de02ff-8482-4b2b-926b-db29ebb84303,188,False,True
+Video Call,4737266c-8cfa-41de-b431-2d6cbeb62009,f2194940-5c2a-40bf-b418-85cb4f3dd13f,3355,True,True
+Email,5e7643a1-a9bc-4406-87ab-452550ad422a,3315aaec-bffb-4631-a98d-8b43c5daf31f,2811,False,False
+Video Call,50f0231d-6242-442e-934a-efb469a7a2bc,daef2ffe-afc2-4ed1-a4cb-03d0162b5cd6,3489,False,False
+Email,eb3d147e-f9e0-4e6f-906c-4fce4f801ccd,eb819434-d697-4e33-ae72-1273bc8053e3,2365,False,False
+Chat,64364dd5-0954-4b6c-8ae9-bd849bb42d1d,bd08ad73-b8ba-4471-9d58-82bc7dfbd325,3498,True,False
+Video Call,6cd45290-4a17-4697-ba80-55ea98528ce7,f30a5b6e-771e-42ea-a00f-cae085c93518,18,False,False
+Voice Call,a2630b69-0adf-4758-a0be-bd712b64561f,58960bfc-8a40-46fc-8cce-a3e7d239ef86,1009,True,False
+Email,d2089da6-78a5-4242-8493-f53117ae34a2,dcd38883-f8cb-4e25-a744-e754d5b4bbe7,2049,False,False
+Video Call,6a02951a-c1f6-4efe-a840-966c0b80ee40,41ad847c-180e-4bd6-a276-a9060a8bafcf,1995,False,False
+Voice Call,6ef68d84-2a5f-4413-b7c9-03ee3f4c08c0,f4044503-8f3b-434f-a7bd-e383d660b352,32,True,True
+Chat,94931967-5859-4476-9887-585848474be6,d33ea06b-47b1-434b-93c9-d3c9df231774,1135,True,False
+Email,d6ad0191-243f-4778-a66b-01b6c81de1f1,025318a0-44cb-47d3-aa94-7eaa162773f3,2229,False,True
+Video Call,60815f5b-2f0b-4fe9-a945-892e973aa539,b43c13db-5dd0-4f6c-ade1-119b0fb4ee5c,3335,True,False
+Voice Call,c2339008-4674-4890-8ed6-668574ecb67f,15a992a8-79bc-4ac9-ad20-f568a82a058e,1210,True,False
+Email,31e2f894-b111-49c7-b2f5-411afee824da,4989e077-4906-498c-b03f-2b1d84ce8354,2419,True,True
+Voice Call,e2dcb514-ec55-44ac-9f6b-914170e99ab0,6bd63119-aecb-415d-a9bd-386f3f889337,961,False,False
+Video Call,c5c20678-5883-4710-b02e-e8e46d45bf0a,c3375596-e755-4ba5-a013-f421f190cf47,569,True,False
+Email,c2b43359-50ac-41ff-8818-c51692c454bc,25fe8372-3928-44de-8962-1fadc60d1828,657,True,True
+Chat,18edce47-aa31-4dca-8f18-83d68d283a07,a2f9434d-9310-4163-8e98-81dbb28e3dbb,1511,True,True
+Email,646a1e95-3107-4f54-9c53-35e6df422c3c,221f251e-69a0-4ac5-9821-41a38b94f1ce,3522,True,True
+Email,c712ec4d-e11e-4be8-a5b5-a8e5a9b7c5f3,750edb91-97d3-4735-bee0-89ee7a6a5d4f,1188,False,True
+Voice Call,b34ad315-17f8-455c-82b8-a32955e332e9,cecb9c27-7eb9-46e9-9b4d-b4ac97629fac,2444,False,False
+Video Call,514a6229-c019-4053-8d01-cb15d4e8091d,da8baaee-7fdd-4218-bb3d-6c03f5cad4a1,1041,False,True
+Email,40098642-fc3e-4f6d-8bf5-7d69da02bebf,956b14f9-cbb8-4890-b3f2-ae25863a49d7,3387,False,False
+Email,91a22d30-17a7-4929-a3b3-ef238e30584c,c2c11b56-cb9e-462c-9701-1cb64d39fe24,3449,False,False
+Email,1d3eac13-e4f8-495d-965e-7917c202c95c,a6c3dce1-e082-4818-970e-d22b3a98ae70,2849,False,False
+Email,0e675687-6d29-40df-8f4c-505df448e041,f74cbeed-0fc0-42f1-a65e-511cc6247af5,257,False,True
+Voice Call,f2f90945-dd40-4111-b4a6-d09ff97cec7f,701d1907-8600-4728-a9eb-04cd3e884400,3288,False,True
+Voice Call,2688cbed-3b67-4905-a8bc-c86b6bd28862,7e47928a-ec8a-48c3-9c5c-c2cc72b3a892,2855,True,True
+Video Call,94c5d9c1-8c82-4620-a2e0-9c7ac149f91d,e544444d-8f69-470e-837e-bc3578903cb1,711,False,False
+Video Call,ecc4b252-b029-4e51-ae73-2841b32affbf,2ad4608c-7514-4101-8e50-0662bc66e5c3,175,True,False
+Email,61a7a1a2-6f9c-4cd5-8601-3b405c91577a,348dd86c-7ca5-466d-bb58-3ba3bf19f61d,3471,True,True
+Voice Call,f27b71fb-fcc1-4d0f-854c-de6dcc38a437,94ba13d7-6042-4965-a61b-1edf9f80e12c,1960,False,False
+Video Call,fd4cfacf-5f29-4f0b-8a7a-4ae47038aefd,d61e9455-2a57-4f92-9d4e-ae2557f22dcb,1578,False,True
+Video Call,6467bebc-dc5b-4c25-8f7a-5d319cefe81b,e619f687-82c1-4f14-acfe-dcb0ec60e429,3457,False,False
+Voice Call,c772b3b7-46ad-4ed3-94a9-92c37a36c070,c3c5d238-a1d9-4d78-a3c5-e402a3d182f7,1196,True,False
+Email,1c970a08-595f-41e0-b7e1-8d37d6deea28,0417106e-7b26-4872-8676-fe78203e83bb,2953,True,True
+Email,1f0e69a0-9c1a-491f-9691-401d8e3bcf96,367e8307-4038-4399-b646-cd90076d3b8a,874,True,True
+Voice Call,5eb95c7f-eb71-43f9-961d-67c2c7671090,709c06d6-0c1a-4a06-b7ba-2e5e2c30b56d,1545,False,False
+Chat,e94386bb-21a8-4d79-bbe8-175161f0351e,f04a6a64-2ad1-4a6f-9209-9e9bdcd05d82,3441,False,False
+Video Call,d2197b93-94db-4623-9b4c-cfff00608b51,8989adde-ca79-484f-a057-15317b73ab45,1431,False,False
+Voice Call,4cbbd22b-64c5-4e19-a80e-a0382addbc96,97b5d7f5-7bbe-4619-904d-1f0f0d11464b,1601,False,False
+Video Call,d90e2ae8-933e-4938-b60c-949887e74a72,c15007af-dd64-407e-b4ed-3b9fd6f84279,3405,False,True
+Voice Call,eef78b4e-26b3-4396-aaf4-57f9f28a0f7a,e8984530-c563-44df-8c52-bc20220604a1,1223,True,True
+Voice Call,70e2a439-0155-4095-bf86-dbb3d6a509ab,25ab96f2-6c62-4047-b1cd-767d77ffa82f,1832,True,False
+Chat,38f15239-2346-410e-a076-13646f3dbcc4,7185aa5c-12a5-473c-b3d3-3df3f0493d00,3570,False,False
+Video Call,5cffc018-5556-4af8-ae22-84adbbe662b7,f6d9278d-ac80-4f05-a4cf-f743dfdb64de,2079,False,True
+Chat,2c09ff8f-d492-4d2d-a80d-944fd6404527,308a32cf-e837-4b96-a58b-b13c19648704,640,True,False
+Email,0b90615f-e249-4122-bd3d-d85d6ca6d4a8,26c075ba-a39b-4f40-80f2-bf0eba0664f5,3481,False,True
+Voice Call,a2899d10-dec6-4ff3-b6bc-26623d647fa4,aadda85e-41e8-42d6-8d52-ac1e1c8a834d,2398,False,True
+Video Call,26272d70-040b-4493-8fd3-04e334a4d777,329d67c7-2226-4e1a-b19b-219f6f1676bf,2131,False,True
+Voice Call,0ecba785-42cd-493b-885a-c2e60649e938,24b7f19f-f7d1-4a8f-9033-4bbb651dfc69,505,False,True
+Chat,140f75d3-3ceb-4225-88c3-b155e32d6b0a,8f26059d-bbe8-418e-b05b-169edbe6e035,2786,True,False
+Email,0fc2c989-8c5a-4e86-a01b-4bb77e62d146,69099ffe-acbf-4a34-9684-50cf48d37489,3036,True,False
+Chat,21be79e2-eba6-42cc-b822-d5130350e8b7,abee166b-afad-4d69-be93-7e20307eb4c5,2243,True,False
+Chat,aa645ee8-141f-48db-a3bf-dbd46f043be0,c0b44b83-e7db-45b2-9fed-b00efd6402c3,194,False,False
+Email,8627fd3f-fe88-43b0-a802-0a752390c86f,2c842e04-3893-44b1-a79e-202ca2ac90a2,2573,False,False
+Video Call,9cf68166-6c6a-429a-a1f6-85f5fdc8cc7b,f9441aca-123d-407e-a361-36c7b50e33bc,1296,True,True
+Email,0670b49d-4894-4182-8bcf-033c7d02ffac,8eb45381-6734-481e-aa85-e57dd01eb81d,790,False,True
+Email,b27cf8b3-8403-4810-b32b-528dde52fd97,86eae8e4-8fae-4057-a92f-fbc368705931,2614,True,False
+Chat,9500815a-61cd-48cc-a90b-9bee0beef75f,11fdbe39-706a-43b6-aaf4-eefae8b28209,1798,False,False
+Chat,2b1531d3-bb67-44f7-8c54-b9510541910e,2887dd1f-e82f-489f-836f-129bb5d58921,978,False,False
+Video Call,0ee6f1be-cb59-4c0f-99d6-abc02d0f5b93,f5f34748-eb01-4389-90b0-01504073087b,613,False,True
+Chat,8b7ea63a-fdbf-4869-895a-013fd8967182,d1943889-9c6f-4572-ad4d-fc661d2b2a43,3382,True,True
+Chat,2d027756-1680-4e90-a76e-76ac5e2fd445,cc05318d-ce8f-4d64-bc5f-7acd1a164395,997,True,False
+Voice Call,861611c6-58e1-4ebc-b02f-60ba27b88a55,6883677f-fb31-4908-a82e-ea71d768e642,1996,False,True
+Chat,bf4d695f-4d83-46ee-95ec-fa21eb71e05c,786f9566-3906-4eb4-969e-93bc7b1e3496,796,False,False
+Video Call,67fead9b-fec8-40f8-a3a6-fe6a5048b4a1,4bbab59b-02e8-4e01-8616-8c0cedd40042,3498,False,True
+Chat,4f928b45-f44f-44ef-a46b-a7d13029fa2f,2df00b0d-2f9a-4b92-ac60-3bfe5a4843d9,2006,True,True
+Email,b7731370-cde1-40cd-9c00-73e35092cef9,2b3f2bc2-967b-4cc8-a0f2-253a386ecb3b,2594,False,True
+Video Call,46d4df8a-3282-4251-818a-7cb87a4afc5f,37a05824-46dd-433b-a662-cce664d48087,2337,True,False
+Voice Call,862ebbc1-9286-4b1b-8c9c-b14e3418a009,f5f13fcf-dbda-496c-88a7-0aaed82fe2f1,344,True,True
+Voice Call,543d0ab4-cb97-4dc4-b41e-d23fdd9d558d,6b97a898-799e-4c82-a018-581c5e38b03c,1857,False,False
+Email,a952b068-28ce-45c3-8d9d-7c3eab1e6b23,69af5f82-7755-4b01-a1a0-e1ee335d9a2b,1879,True,True
+Email,1d8ee5cd-1502-438b-95e5-4e0bf19d6b53,7b4a864f-8f1c-4d1a-b74d-cff49a83b623,1191,True,False
+Email,3c0e9d17-f7b0-4dac-9202-ea3562860341,f29342a5-0581-4a6e-bb15-9f773944ebd4,1399,False,False
+Chat,05e91dfa-0678-450b-9f30-7051dbb4ac78,cd608419-2bd8-4665-aabc-a37ce74f1e45,652,True,False
+Voice Call,9014e407-3904-4c7a-88b3-7629806e692e,3562e7e5-8fc3-476f-9e75-521a285faac3,1535,True,True
+Video Call,26a1dbc7-30e6-4d40-9935-5591f74a32a8,2cdf3844-41d5-4aa6-8683-12ab314b8b2a,113,False,False
+Email,a9049b9f-a1ac-415c-abfa-2319f5bf9331,bbded7ba-e7ee-43d1-abc3-665f39bc560f,2500,False,False
+Email,ac385428-b4df-4655-b6b8-8c431e6d4c1f,5e3daf95-7b74-46a6-9b92-c92ba5c3d2ad,99,True,True
+Chat,19c73347-5e09-4f87-9145-ceee26525bb6,b93f310a-a91d-4254-83de-c52c7dc921f4,3145,False,True
+Video Call,cbdcdd30-ed21-45d1-b1a4-18e78d9fec16,f999cf05-c391-4978-a914-ea8f39ded719,1731,True,False
+Voice Call,0c3764d0-2fbf-4aed-9f5a-4fdd4516d0ad,c82ac53a-44d7-4adb-903b-7f0450681690,2604,True,False
+Video Call,0021b84e-0fb6-40b2-a2d2-428e615f808d,337c097b-6955-4906-9236-d6e089f07f63,1297,False,False
+Email,4248845e-9234-4973-85b3-cd0ccbe53131,ffc47f5e-5958-4216-8ad2-96ff844fd299,687,True,False
+Email,18f44927-7e93-4872-a214-3bf5c76664f8,bae4c5ea-9f4c-4850-9eb3-22e80eafe320,2400,False,False
+Video Call,fc3286ea-2f7b-4cae-821f-e25f8f66460b,72a4aebf-68bb-47ca-8706-00d1875956ee,515,True,True
+Voice Call,47558c66-cb71-4563-972d-320e98ea6cce,df6ececc-5599-4767-8c6c-0b376b8b0413,3161,True,False
+Video Call,dc8600c2-76e7-4162-b8ba-6b79294a5303,6485e0ce-bdbb-4562-a915-46129fc07b3a,204,True,True
+Chat,fc548014-5f1c-4acd-8aed-27b36bb894d1,8c263fcc-46c7-49dc-bfbf-513a60443815,1997,True,False
+Voice Call,77382cab-b6ec-4384-97af-4c2dc0d8be9b,d9554eec-8365-4a14-a4a7-58b5b067ad29,2246,True,True
+Video Call,0db9a853-1cec-48a1-beaf-67c32c443b37,e1329e99-2d7c-4e4a-a32f-ea1430b5bc53,1583,False,False
+Chat,19e40ba1-9929-4ad7-859b-343d82b97fb0,33b63998-aed9-424a-9d57-8b66a5f1fccd,720,True,True
+Chat,154e1bcb-8f7d-404d-afc4-10ad9ae0b575,78752d0a-928d-410b-838a-351d7a4e0e9b,1935,False,False
+Chat,34bba4c1-da97-446b-96d2-87e226ae9838,475b5707-dc2d-4260-bd6b-885a40b89517,764,True,False
+Email,0beab853-88fb-4c75-b191-d8fcc1bef9ee,67cded07-e990-4bfc-97b6-0702d285335d,45,False,True
+Chat,5faf192a-02b3-4793-ae33-4a7b4ab5afb2,c77a66b1-a145-4138-bc00-6da39168b3ac,1975,False,True
+Video Call,415d5379-14b3-4fec-8e25-d2c874a765a2,9e16bcf6-cb00-4e5f-9b44-0c491c00f038,2176,True,True
+Voice Call,e806d734-5fde-4c18-9961-3c05f377c1a0,579f2387-cccc-4bf3-8489-23fbd14f52c5,3334,False,False
+Video Call,16a6476a-9898-4368-956c-5ae2b308ed2f,f3c6f29c-8b44-4705-9d12-d752b336beda,359,True,False
+Chat,b88d6fab-83b3-49b1-8441-73442b52554d,976ffec7-b398-4382-bbea-b4fc2d77d461,3078,True,True
+Email,99e40a31-756f-4d57-a03c-a8bb3ba84d4b,1f059eac-e10a-43d6-a60d-9deda5bd7e6f,559,True,True
+Voice Call,95088e00-eee5-46c3-b528-fb66965f1cb9,16912f01-cbcb-4e0e-8e75-cfc12b922aec,338,True,True
+Voice Call,7b2629ab-6fea-4fbd-bc85-b1ec62d2d941,265e9a58-b2b5-497b-bd88-8b3773ed5fe3,3308,True,True
+Voice Call,3e400bf4-2bef-4ece-8770-862f7c208d80,d96bfa45-4f12-4146-93a3-28ceb5a1cbf6,1095,False,False
+Video Call,85f6f998-87d8-4ee5-a8d5-b8449d1a12e3,051bc610-50eb-4151-b02b-6cc399d0a6cc,828,True,True
+Video Call,53daaea2-0e24-47cb-a13c-381cd1a37d82,221b9155-b6b1-47fc-b23d-12d2bd089d19,3374,False,False
+Email,250fc663-0d59-4323-8c31-f982e5c8643a,14d64b47-cec3-4083-bae1-1fb1d1e5daef,2456,False,False
+Voice Call,6d1f2401-67bb-4898-b9ee-211969a850c5,0076cc0e-8577-4a45-aaff-1251f0fc817a,2735,False,False
+Video Call,f5c9752c-1316-413b-9a30-a2404e07fc45,558e89b4-d025-4cf2-a1b5-4b0e3fa221c3,737,True,False
+Email,4fa73693-f332-4a61-8db8-ab9be2ffc0c8,3aada3b1-ac7b-4de3-8945-b81045125874,1730,False,True
+Chat,0ede4dfc-eb07-422a-a1bb-d79009754fe0,05ebfb12-4407-4e87-8d6a-639e50e3b94c,3037,False,True
+Chat,fde01c38-0f35-4f9c-9fba-3a482f6a7a03,9cf7feb8-4d25-43e8-9b36-8d7d8c0f25da,3363,False,False
+Chat,a1ee5580-561c-4afe-aca5-643ba2fcb81a,2b93cd2a-4cb0-490a-89d4-423e59b413af,3451,False,False
+Voice Call,e05921e5-61a9-4cc8-9fd7-933a7ccfd4eb,d472a2c0-980c-49e0-a71a-4abdf69ca73f,2915,True,False
+Voice Call,0fc02e74-4a59-4461-9887-335e079e7ddc,ac397bce-ddaa-4ea8-8651-bfe2c0dbaf62,2371,True,False
+Email,60d28cf7-eb0d-4561-859e-9866d9fa6247,5d5dab30-d2e9-40ab-8064-55265580a17b,1160,True,False
+Voice Call,4512d4be-f886-4504-937b-0a18058870a3,6e1ac8d2-ce87-467e-bf26-33eb4045da8b,128,True,False
+Chat,09869ac2-2245-40df-b81a-88b628461d19,ce6647ac-e0d6-445c-9be4-393dc28eb9eb,901,True,False
+Voice Call,09d68d39-18af-4d4e-96ba-1111b6df5c66,84db29ed-70e2-4571-953f-408627e0c3c2,2528,False,False
+Chat,abafaeac-2f12-4ce1-904c-6dd25046b96c,7e7681e4-a860-4882-b5de-47a09e1d1846,1365,False,False
+Video Call,02833d85-6ae2-46c4-a763-40443960d4c2,dd374149-3105-4915-b30c-5277d87189c7,667,True,True
+Voice Call,9059a4c5-9d91-4e78-aac9-16351ab887e4,5498a7b8-f8db-44ce-a2e0-d6fc5be255ed,2994,False,True
+Video Call,735ce18b-8ec5-4733-9105-1fbc67c1b822,5d47f07f-1e4f-49ae-a63d-b9dfab482d72,1265,False,True
+Voice Call,fc32b7fd-38d0-41c6-9753-7008f00c2583,3d366a72-6fd6-464b-886c-3129228e7db2,191,True,True
+Video Call,0ba49711-6fce-4181-93f8-5806bbe2eb52,6a181dc9-5867-4bb2-8510-dc9eb1b2ce34,1787,False,False
+Email,8e547056-0d99-4b05-b2a1-6c9641a6bb1e,e8f5f14d-8fff-42b7-a60b-5a3ba72a24b2,638,False,False
+Email,cfca4d6b-9020-4c54-b865-f851b5bdd9fd,96c7be3a-0565-4b63-9a6f-045c0d907328,2084,False,True
+Chat,25a5ede7-ea5e-4b21-bfaf-4bb2e5bbbd00,f5d11be8-6418-4857-890f-a463df304aca,851,True,True
+Email,08d21bf3-e45b-4b2b-a38d-d181e5321bb8,3edcdf11-99f2-4c1e-8fa4-d95fe834dab4,2932,False,True
+Email,d514673c-eedd-4eef-aa16-4e901cb44edb,13c7bd41-680e-4bd6-b6c9-31cc0633a497,2990,True,False
+Email,47a46db8-2aff-499c-bea3-7606c88aef33,75e0b379-1ef0-4fdf-99fb-44b155f2af3a,2950,True,False
+Voice Call,517329d0-7460-48af-9915-007d4c2cff4a,65399f55-f371-4cef-9b99-05f1fd1cc347,3013,False,True
+Chat,017e49be-d8b7-49e9-878f-f4a15fa8fbff,ce1caafb-4632-47f2-b0a9-2e7a1c6f1c06,3364,True,False
+Video Call,e854b409-599c-46dc-b7fb-091c59ddbd33,7e9f31c3-5f8b-4e72-8a0e-90f95e4c5846,1235,True,False
+Voice Call,32b6c621-1b1b-45d5-a1b2-da2f6ba410da,05b17f72-7a44-40a7-9d9f-033b9c74477d,3380,True,True
+Voice Call,fa913cdd-3146-447c-81e3-e68a7ab78147,8a828c37-869d-4fce-ac46-53f0736e7e34,1281,True,True
+Email,73ed866d-c592-4bfa-8343-5b1ed174502c,1ef82173-6954-4ea8-a53f-d72ea023c727,2084,False,False
+Chat,55afff7f-d6dc-4422-8c4d-5f7f3dbc202e,62ae18ba-e919-4923-b21f-b3292718dd5a,2419,False,False
+Video Call,ca081f85-b23f-4956-9de1-12a9cb219b13,db59f1b1-3fb0-41bd-a2ad-24a408e68279,1569,False,False
+Email,4f6d94c6-f342-48c3-8121-adcd9e5f26a7,f3467f26-ce11-4fb2-83a2-9dcd8e39b0f2,1585,False,False
+Chat,5c63e135-ad3e-4c08-81e4-0c09b0d928b4,fd2c3794-ed42-43a4-871f-a554086eb364,2558,True,False
+Chat,e077fe09-d5d7-4f13-8b7c-38f24fea14e0,aab9a83f-64d7-4ba9-90bf-9f265d3ccf3d,982,True,False
+Video Call,7a8f43f0-1dfd-42e5-b5a3-048520925872,1824108d-f6df-4d84-9b6f-ad16a7a39613,2338,True,True
+Video Call,ebd0cbdf-72f0-4a07-90a4-6ace3652f063,e9228948-d92d-493b-b607-21be4d8859ae,1128,False,False
+Video Call,01ec2bdf-9181-495e-a5fe-c1d9509b96bc,de0c507e-0ffe-4a7d-a7c6-37ee6b3a1dfb,1828,False,True
+Video Call,eb5ed206-8387-40aa-a4dd-1d3b715622c6,96ad198c-0817-4e29-8487-d844fba0f75b,839,False,False
+Email,5c7493dc-96fc-4e1c-8ab6-00b55dc72258,139ff99a-03b8-410d-abe0-29dbf8e9d8f3,3521,False,False
+Voice Call,8e028d49-30b9-4c19-9067-160d85dec883,0a2c61f6-2ba4-467e-808e-3102586b0711,334,True,True
+Video Call,d2bf0425-1b91-4ec9-af31-568606f085be,dac005d0-0b6a-4ec8-999c-ba2982337d9d,1606,False,True
+Voice Call,8b0b55f6-db31-40d6-b743-2e35acc4b669,5639b001-cc36-496a-a706-deb7f1522d90,1696,True,False
+Email,3c486641-ec09-4402-b182-cd3dc444266c,e2b14afc-c876-464f-bac3-4d5547cac2dc,2518,True,False
+Voice Call,6f28e481-44ed-4a1f-bbaf-88f6983c290c,e1c4d023-1ef1-400d-bcfc-6183031a040a,1924,True,False
+Video Call,e1b80b8f-446f-4f2d-8068-77e76ac1670c,299574ae-df2c-49d3-b16c-7ca0c47f8887,305,False,False
+Chat,54145b18-776a-4a14-a216-cdbae5578a84,22495ed7-cc72-48c1-a312-a261f4754369,2078,True,False
+Video Call,6823a46f-1853-48da-b908-abf6f0234616,4c3f74a5-6c79-40fe-b4ac-0cde4c6bf15e,828,False,False
+Email,59e0736f-8c8f-408e-b5cc-7612807177e8,58ba7aa3-6776-45fc-8843-5e33fcbde4e1,2031,False,True
+Voice Call,c344ba8b-2609-4c44-869d-3dc7ef52a442,45520535-5235-408e-a830-7d853400170c,1507,True,True
+Chat,95bc0713-3365-4e2d-adfd-845f125106bd,7a522077-6510-45df-b605-88104fbabc9f,64,True,False
+Voice Call,ff9ed7c1-8472-4e8f-a23f-bf1f06f5e34d,63666f22-f79f-448e-a930-c8a198f6da3f,1506,True,False
+Chat,6360d55c-d54e-4dfc-bcf7-2f5f6a03a9c3,b8f2ff98-4dd2-4960-995f-e2de57453ba5,2788,True,True
+Video Call,81885271-58d5-48c4-b8f0-ef294a2e3801,d1adde92-f9f9-4c4d-8151-f2f9e0a26855,1653,False,True
+Email,e73a0bcf-6221-4a92-aa67-4798f95d3f7e,987f2b1a-7f50-4d16-9baf-6939ad6a555d,2088,False,False
+Video Call,6223e23e-d5bb-4807-a0a8-7298fc08e8c0,2c232d01-3735-4361-b6ff-b9ad286a03fb,1705,True,True
+Chat,ae989699-0a7b-49f3-afea-e73d2e8b3fdb,9e2b8856-8ea6-4d5b-b2a0-3377ade4b903,2887,True,False
+Email,c78013e0-8b66-4e57-a4c7-0c0ef4f9a77d,e1975aeb-4c2a-459e-91d9-e2e1147e73c7,2589,True,True
+Video Call,92a1c045-015b-45aa-95c1-33201938420d,90bb9a6d-7c21-4562-ba35-96572488dea5,417,True,False
+Email,98954bb5-5c21-4d90-8d7a-7b77ddf6971e,6c89d574-e82f-4d67-a660-dc7e7a1e5435,3247,False,False
+Email,89577ab4-7c43-4ccc-9b1e-3f00a591d808,bbc57957-7cf9-483f-a3eb-a8cf6f4086d2,1737,True,False
+Email,6eeeda86-5fad-4cc2-8b9e-a8d573f0d8a4,41fa9e47-fa7f-4e98-908d-4caed8a6cef6,64,True,True
+Email,159171af-a077-4767-8b6e-5c683e91b813,c5da24eb-60a6-4c8e-9633-435de3b62d50,570,True,False
+Voice Call,b3a2a1f3-5937-4ad9-9c2d-78de5c5adcb1,c730823e-bbe0-4fe0-8804-3006818b5eb0,744,True,True
+Email,0ba5048b-c825-4cf3-b1f2-09e138743432,355ab653-ee5e-48dd-8e21-fa0f60261827,3202,True,False
+Chat,3f73a6f1-e655-4f81-af0d-2e1fd954316f,e31784bf-e30f-441d-b2f2-b80792c4fca0,1956,True,True
+Chat,55b71d85-d5ee-40ef-97c5-af659422e62c,b0968c5a-a722-436e-98a8-97dcd2ad2136,1740,False,True
+Email,e8f33889-e8cd-4b4a-8dc4-523d8e2a8746,186ab664-3d89-4ada-8f9c-3e82b2bdeab2,432,False,False
+Voice Call,309c7318-9f3b-4169-9fa4-523d41d05e70,68f63280-264d-446a-a27a-4980ad0f947b,637,False,True
+Email,64012480-088f-40ff-88a1-9d98f7067f7c,672c2f56-5a68-4d2f-b706-ca06314d2c92,2545,True,False
+Chat,59c029b6-1e39-4163-bc34-f2f12936cf60,48b66a79-630b-4778-9741-c0313b5551b3,24,True,False
+Email,278af51f-cbc1-415b-8aa7-5c811e9a78c3,f7263bf0-1ef9-4b1b-bf0b-180860e53ad3,3529,True,False
+Email,c0752f1a-31c0-4e48-9252-6afbb7662c2a,3479e121-85dc-4767-9720-f8db37a248db,1590,False,False
+Chat,0db44e14-399f-4504-a3c5-1ca38b2a5719,57e8106f-e4c1-47bf-88e7-5e2de006eddf,1475,True,False
+Chat,0a5db2c0-522b-443a-916e-75198a0f8008,00592df0-06d1-492f-be84-ace73093abc1,3372,False,True
+Voice Call,f9df2835-7829-4d7d-9847-bbccec4444cc,ce500da5-9653-4dd8-81d6-64ce8ca52eb9,186,False,False
+Video Call,6716f695-f67d-421f-ae2b-92cb1df1cf29,664bbcf8-89b4-4a1a-b276-7b5127c5e8fe,1557,False,True
+Video Call,677081c8-8410-4750-bdcf-b6286218b062,7e38fc5c-c5f9-409d-bb9c-3e784afdfe1b,920,False,True
+Video Call,a08bd0a0-6989-4569-931d-8dffa20d283b,4c3a3a9d-29f6-4f81-9840-0d68cdeeece5,1181,False,True
+Video Call,93f6f9d8-cce9-4c76-acf9-3593f29b2718,d7f9dd4e-b501-4b84-97a9-a78d9d3294e4,3541,True,False
+Email,47831f72-e079-41d8-839f-7b980a745c03,66c8dc58-a9cf-40b3-b061-67c0d0f03c77,2859,False,False
+Video Call,93f885ce-cac8-41ba-9704-3e2907455f27,3a3ce717-45c7-4656-8425-51bbececfb4c,235,False,True
+Video Call,e3f6aef8-25ca-4762-ae6d-83c0b97f9ba1,4582fb3c-9bd2-4977-9fb3-2de6f5626181,2068,True,False
+Chat,d7354527-fd76-4065-b768-44e449344bdf,511c5903-e4b4-44b5-922f-8038c20262d7,918,False,False
+Chat,86d37c81-7169-4a6a-b136-0d79854a9bae,33e58c5e-2d34-489c-8488-c037b53c49bc,3472,False,True
+Voice Call,2b3b0a27-8a6f-4fcc-9d50-7a54aea11641,390f7ec7-2323-47e1-8859-72f93c80f8a4,713,True,True
+Email,0413eec3-21a1-450e-87d6-a030f7acf7bc,4674aeba-10eb-426d-ae03-a03491b66d62,1031,False,False
+Voice Call,5005a0e6-6161-4d2f-acf9-f586e8ecd94b,e622edf7-1125-4573-878f-24546cb4b0dc,487,True,True
+Video Call,51e324f9-021f-4f09-b05e-7edc526e5b6c,b9048aa2-a5e1-46c3-b915-c6a40e4891fe,2617,False,True
+Email,e47694d8-068d-40a3-9415-9ef6b95bb9fc,ffa53981-e465-4889-abd1-5870efb94378,579,False,False
+Video Call,ff229296-e543-41c3-bbd0-4968a6913589,11d78d4c-4b8b-401c-bb13-e473637e6ec7,816,False,False
+Chat,d02c7481-ad08-490d-8f78-244767b243ba,27b7671a-02a8-47b3-a098-eb18238c4d6c,455,True,False
+Video Call,b7005325-79cf-4c61-b1a0-a9b73e038a04,b19a8821-4423-4eec-8041-42df45b142d3,2957,False,False
+Email,ecc857d8-afcb-4b59-b87c-7f946513fd34,daf0826d-05b6-471e-944a-fc119d3fc6bb,2900,True,False
+Chat,c47679b8-fa17-4f8e-a88e-68cd4cfe786a,389c11ef-4976-40a3-af5d-f8553e281d4e,2520,True,True
+Email,4147d1b1-35c7-4ebb-8203-939fffe5693a,b691c3c2-8839-4795-b904-d92d6f0270e1,591,True,False
+Chat,065cc066-5aa7-4abf-a827-7b40c791811e,c20a843a-6cd8-4db1-84eb-9270c715a98d,1048,True,True
+Chat,62d7732e-d5ad-46da-94ed-b4a5e8ef7d48,ca79c9e8-48a8-42af-816b-f31b70e0d662,1095,False,False
+Voice Call,03626fbf-8320-40db-86b2-ff42a0c284d2,a3e68eac-2c1d-428f-bc9e-e06bfd1339a8,1092,True,True
+Chat,22940bdc-2334-4dba-8693-2240ac6aa783,82d85b27-2bad-47c5-90f2-ba2625321fbf,2146,False,False
+Voice Call,e51c5bb0-3937-4841-ad04-fc01031ae50f,644956e9-5d97-4df3-aa5a-85045179c98e,75,True,True
+Chat,f63004fc-47a5-47be-b763-5a9920921060,543a86b0-50e9-4b4a-8512-3b9fc2564129,2428,False,False
+Voice Call,d22c3d49-2f75-44c7-8623-3d55c461e210,c260c437-4722-431b-a9df-1e1e426060d8,3350,True,False
+Chat,6f735986-f85c-4f41-9631-9bf526b328cb,52609daa-4969-40ef-88e5-17f1221f2872,1909,False,False
+Voice Call,cee88945-a95d-4668-a4d1-6de5d2d3eafe,9641ed46-a64d-4db8-b61e-dacf27c8c50e,1085,True,True
+Video Call,d5ad60f6-fa9b-4f8a-965a-5de1a0d0eb50,8e7c784e-c360-470a-b345-781e518d1216,1072,True,True
+Chat,b5dcd031-30f3-47db-ae66-2a6527a9e68c,6058c9f0-049a-4e66-a7d5-a98a5d849a69,870,False,False
+Voice Call,186983f3-8d04-4750-9fe0-dacb959d1731,21f6dc35-e134-4207-8ad1-078fc6cce06e,3054,False,True
+Video Call,2062cc81-5f0e-4a30-83fd-aef87c9c0276,b9b97341-c9d7-4de6-825b-e4ebe54bd47a,2660,True,True
+Chat,6009c39d-ac9f-498e-924c-20ffe02a6833,2ad0d312-563d-4ecc-843e-696f0901ae6f,3499,True,True
+Video Call,d3461591-a9b7-453b-b0a2-b5c60f2931b3,6b76e4c5-d937-493a-bf1a-27048207bf08,493,True,True
+Email,79fe6292-e212-408e-9203-0429c74f11e1,eaa4faba-8a5b-469a-b8f7-8d36a523b6ff,1237,True,False
+Voice Call,09351d41-580d-4804-9e9c-0e8c361d482b,f9a86732-4783-49dd-978f-2f9dd8db8ac6,3065,True,False
+Chat,b12147d5-f464-47d7-85b6-4cf1f06dfdf1,1076d0a2-8e87-4c43-b6c4-ac3f336cd57d,1450,False,False
+Voice Call,5f43c9e1-e587-49b0-b198-f99bd6e7a6ac,92b05d27-9a2a-40cd-85be-d2f81d0a0d58,2294,False,False
+Voice Call,417b48bd-1026-42b5-8efb-ebbf96a81684,1cf1b744-dd36-4d14-a0c3-944fba5227aa,705,True,False
+Video Call,7077aeba-c71b-4591-a881-56b6917f57a7,1c3367b4-d4ee-4269-b120-5199c6b6e694,2778,True,True
+Voice Call,aca88aed-e0a9-4ba0-96cd-6719b6c2c05d,254ead76-dc1e-493c-bf39-36fffbb5dc4f,3235,False,True
+Video Call,3f7cfbb7-92b1-40a9-80d3-4936e2f03b7b,8ef1c26c-32ae-4842-8a59-24c72e90f9a1,1559,True,True
+Chat,d72da555-dee7-430c-8478-3eb64a4eeb48,88c07d13-b7d3-4987-b97b-ee989a4293e7,1515,True,True
+Video Call,2c1bf760-5eaf-4fc6-a67c-b10b0d07f584,5d8e3222-6755-4437-8b1f-a426bfd69411,3352,False,False
+Video Call,1f9016ca-346f-4c7c-a1b2-bd4111b2b604,777b9b6b-0984-43a3-a083-036ba93b463e,440,False,True
+Email,ac5da66d-9906-4df5-9fe3-6d199db7f569,0bf016af-f6ea-45b6-addc-38ad13408929,1979,True,True
+Chat,88d31972-3a60-40e0-bf86-2f84c6c379c5,02b2336c-2860-4114-afe8-e675305e4efc,1606,True,False
+Email,bbb43c2d-8f9c-4fcf-846d-d6e708753767,194cf3dd-db71-4d4f-9a39-5a3654b2fd3e,2015,False,True
+Voice Call,72f46ea5-33e0-4eb3-86a5-d480beed5e62,4af50e1d-d2bf-4128-b214-6f8d9b96d2c1,2071,True,True
+Video Call,77df2d72-88cc-4e0e-a256-50868f10403c,11f2fd92-5b13-4bec-969e-f6ad75c69007,3128,True,True
+Voice Call,8ef6766b-1d2a-40b2-bbdf-e155694d9e66,fb0a8165-58a5-4720-b3e1-7607d3bb648e,2567,False,True
+Video Call,8771efed-0e0b-442d-ad1a-721298261f83,870f316b-19d7-4333-ab6e-5b1389026388,2046,True,False
+Video Call,26136f41-7de2-4859-be68-7e055846eb02,2b38075a-8be0-49fc-9df8-1ddd0ae205cf,2221,True,False
+Video Call,3bcc57c1-2a1e-4bb2-afbd-d908143e7a2c,38854ba4-fedc-47a7-9a1b-2996e68b2232,1976,True,False
+Voice Call,b7f0ccac-2277-44b2-a54e-78b817823443,6ea9d38b-fe2c-41a4-9ef4-db32bd1fb461,2866,False,False
+Email,b732380c-97f2-40c7-a70d-1efb29cb0433,4f1b1112-ced3-4bc0-849d-74f96fe08440,2997,False,True
+Video Call,1d4f9887-689f-422a-b012-56dba32cde5a,39cb7b32-70bb-4fbe-b432-4a760e564822,462,False,False
+Voice Call,d5a05afa-354f-45dd-9241-d2fd51631f34,801d85a7-8a56-4d3d-b946-a64f71c6a2eb,569,True,False
+Voice Call,c9060f7b-cf98-4300-b645-a05fcd637c78,aa8f3cd6-dad4-46d2-932b-fbd8b1c6d280,463,True,True
+Chat,0a8135f2-ebb7-4593-9634-c03940aa5770,584093c9-69c5-4109-97e3-e8f783b96604,3487,False,True
+Email,dbc36f10-5fdd-4810-adc9-05adf0f3295c,aaf82727-b1ad-4016-a839-0211b5350a52,450,True,True
+Chat,0fe33f80-f2c9-4124-9db9-e0c3a1c5e07b,0e5c3f7b-3fcd-4ce0-abdb-be6055e279cc,1966,False,True
+Voice Call,105c98c3-beac-4c6d-8dc3-a9d386ac95b9,042608a5-b52a-4fb2-82dc-d17eefe97b1c,1416,False,True
+Voice Call,31630e6a-2314-4273-ab86-15d0e9b69aff,c72da128-76ea-4871-a1af-65ff3939884d,3315,True,True
+Video Call,f34676d2-4687-4ab4-a3b7-2b9aab313751,08923a1c-de7a-4c33-a827-a1029e72bf8a,1609,True,True
+Voice Call,a43db38d-1ae4-49b7-a3fb-7ce1d9073d08,7f7b8f90-c6ca-4608-90d7-a8880144b5e6,2952,True,False
+Chat,e5739773-8d25-425d-98a2-e32c5c92f614,86f20010-0d81-4c77-a06e-dd48c4d962e3,1558,True,True
+Email,0a0cbef5-ed90-4768-9a74-ab0e13a98d96,6cad7a3d-d256-4e84-8951-c2d0c417b5a1,1223,True,True
+Voice Call,c526cfa3-9670-4c77-9a94-4d0b094ceb6d,de46f331-4be7-43c8-b9ee-6e64fb183b9e,3362,True,True
+Chat,63465dc3-004f-4669-9b52-e27c8d51a8c6,95aefb70-42a0-4dde-a6b9-771786a4e8ed,3277,True,True
+Email,ab5f8665-43c3-4fe0-82db-5d785f17aa4c,86ef4a53-7a9e-4037-9ad4-d29a182a1381,2038,True,False
+Video Call,b8f62ecb-39cc-4a7a-a9ee-443e6e6ee0a3,8318ddd0-e648-4997-8fe4-28c9c35befbb,3482,True,False
+Video Call,23b01371-b04b-4f24-9762-a4660749cd6e,65f3fc7c-5e00-4cbb-a808-fc7775508655,1169,False,True
+Video Call,cc357a19-db85-4b5e-b2df-75209df6e788,b021cfd8-4291-4348-ba5b-0f63c715696d,695,True,False
+Chat,e092ba77-b424-43a6-8edf-86cabde54f43,6f91888a-fd95-46e0-9653-a56b3b62a5b7,1218,False,False
+Email,e6b58665-54e1-4b13-a776-a3c0d6105d63,57a79755-647c-41e5-9c82-4385d446cace,936,True,False
+Video Call,0e8190b1-c2f4-4bdb-bfaf-4d4a9595fa73,a4d6d932-b455-491c-a04a-ff7fa42507f4,3117,True,False
+Chat,b49bdf99-7557-4714-b924-594748bbddc6,55d9f572-0b8d-4d1a-8c41-86d627c41304,1908,True,False
+Video Call,6eaf9585-7765-4d3d-9516-8647eb108cea,ae1602f0-af31-4e3a-a301-8a403c7cfd32,626,False,True
+Video Call,b381ca6c-6285-4bc7-8e33-e5c08dde3c5d,04b8a0b9-a615-42f4-b865-7e48113c24a7,1606,True,True
+Video Call,15d01cfa-54c0-4703-8580-e2805d39d890,2420d1f9-6c76-40c9-9dd4-877f8f526ff1,2893,True,False
+Voice Call,de8ba92d-9f07-499c-a018-db28a1f0f2a0,c5d96d54-71e0-4f3f-8afc-73a3b33cea8d,3134,False,True
+Video Call,ae9147fc-71c2-4024-9027-a0d4a8a370cc,41752c04-47e8-4066-b16d-a22734a71552,2149,True,True
+Voice Call,4bcc269e-0ce3-415b-a35f-7df0a223f1a3,6f14cc34-79db-4ed1-b9d9-644c388161d4,1166,True,False
+Email,a077172e-5a76-41f5-9df6-c4955f76031c,f2f3c23c-b54d-406c-a3db-0a3722c1bcf6,2933,False,False
+Voice Call,cc8116f5-e7ba-4a3d-baa4-1f686b2c182b,a823876f-718c-4f2b-9cd9-6a10f8bf10c1,355,False,True
+Email,43b59046-cc28-4e9e-8921-7bc254fce3a1,92778a87-62bf-499e-a083-1712db87dfd1,1214,True,True
+Video Call,79b21c71-f3c2-49ef-83e8-bae78bd6390c,6e64a582-6b57-4e9d-a927-ebdcfcaa4244,1508,True,True
+Email,0838cb9f-6103-4e2a-bb30-e2cf8106e35b,e2f56599-0da8-483c-a11b-63bcb7ebd43e,167,False,True
+Email,035f4da2-b23e-4c5f-9549-17685671e16f,2a97c544-8429-47c3-9047-929adfb6f139,1732,True,False
+Video Call,be17025c-dcec-4c75-8b93-3177e508c9a4,3cbae89e-618e-4f83-bdba-0060680a30e3,556,False,False
+Email,a80a60d5-e7cf-4639-884d-10628e11ac83,29a8618b-72a9-430d-b18b-6762eb473032,2776,False,False
+Voice Call,5c8e69b9-17c4-409e-8d90-130171a8d33b,4f75fd40-1af5-434c-9650-f4042e863cc9,824,True,True
+Email,1caae87c-68be-416c-83ee-b3968bb2aec8,63794351-c09e-4c0f-8f6e-d2274c3502fc,1980,False,False
+Email,8b179b46-27ea-4208-ac70-297a820e3172,7cbed959-7690-48ea-ac8d-9087c5fa2d72,2899,True,False
+Voice Call,ae134fd3-f27a-4020-a0cd-4a2882573878,1a0aecce-ab78-494c-81f6-508ef09a08f4,1538,True,False
+Voice Call,4147a4bf-b786-4407-b45d-c6631b32af4e,f51309a8-f782-48f0-ab20-b52eb6277491,11,False,False
+Video Call,9f66a526-d8e3-4b69-9cec-58c8e5ea64c8,dd172178-2148-4e55-9eed-660b9e50bf50,3550,False,True
+Email,2d11c760-db33-49da-9d52-2fba4692f252,f1069272-af14-474c-bb96-78f704cefd1d,82,True,False
+Voice Call,71c18877-5e02-4752-8dc5-6461b74e870b,91e0b919-fab8-4832-98d8-56fb3285b10b,350,False,True
+Voice Call,4b34c9c8-c4d9-4495-ac18-9131e683172b,d7458c74-ddea-456f-b069-fd7261fdea4c,134,False,True
+Video Call,b0dba362-9408-4cb9-922a-3db701b2edb9,22489851-446f-4332-b9a9-0b1e9ab3913b,2144,True,True
+Voice Call,62632d7c-d6a8-438b-88b1-9262076afbcf,c4f5e69f-05c5-4234-bf66-eace002f5192,1437,True,True
+Video Call,cfa7a667-bcf5-4832-9161-4ed0d97ac0c6,db59f533-e043-4106-a9bc-91eda5011129,689,True,False
+Email,573f47e3-d55d-470f-8998-92fe33a4a330,47bec0b7-92d7-4fbd-88ca-a80733ed9cbe,2317,False,True
+Chat,7fc75e2e-83e5-4041-9323-d657f481912c,270afecc-1e63-4185-bc01-0794d69b590c,2396,True,False
+Voice Call,7254c188-1d3a-48c4-8b79-e4b112344df9,24448046-97af-426d-a699-b62b4652f478,310,True,True
+Email,bca9e3cd-908b-4274-988b-2fe7328fcbdd,98bf8a6c-39e4-4986-abcd-e37ceba4095a,1651,True,True
+Voice Call,fed5188c-1f13-49ae-9b1c-96b72e648cd8,1b0a300f-b504-4ba2-938f-363c31b411d0,1251,False,True
+Voice Call,bbe74ab1-dd1a-4cf2-93b0-8048dac6ad31,e83a2d59-f01c-45df-873a-249acc901774,2928,True,True
+Video Call,a2588da5-ed15-4a21-bd2f-ad182d4cb430,48b87a60-7425-414b-ba86-4f94d6354029,2027,True,False
+Email,ea3db969-a3c1-4140-937b-d220b7ef8ef0,fe7519b9-f3c1-4391-86a7-71b1ef285a0c,2767,False,True
+Chat,00bf43bc-c058-40d1-b887-574a6b78e8f0,6771b305-fcde-4184-bc6d-763c35755ff0,2536,False,True
+Email,f8400bc1-2ff5-4eb2-8100-83bc27c75f65,bcc999a9-34d4-4505-86c4-933c6a3b5eb9,2128,False,False
+Chat,c19616e1-e41b-41a6-aa42-b076f5ad1383,054944a8-23cc-4a8e-afa1-b10d32125449,1239,True,True
+Video Call,ff0af0ff-84e7-4932-97c8-e0eb555a3dda,98b70b54-200f-4352-90a9-fe9f66ea8fac,2064,True,False
+Chat,68e8903f-d12b-4ee0-8b66-3586f16fc4c7,0bf83ec6-abf3-4218-963e-2a894731cb79,1392,False,True
+Email,39112822-2d98-4398-924f-d5671e34ffbc,f644d4f3-7a75-4afd-9f3a-857e9a78bb45,693,True,True
+Video Call,e90dc63d-ca82-4c62-b59a-5fa3e1412f0e,cf849c6a-7109-4ac9-bd3d-2fdc3511ee0f,2631,True,False
+Voice Call,39ef0c77-9bab-4627-9470-3cf75409de0d,f9b61ca3-1976-4862-a830-d7f2737db1c6,3384,True,False
+Email,4e7cfbb5-aefc-48d8-bad8-7b42231ac15b,ef94e6af-033b-4c4c-82c9-a32407ecd07d,2539,True,True
+Voice Call,8e555e0a-3014-4062-ba11-ee0313e6716a,c54c6196-ef62-4327-93c9-a48935e15d25,2687,True,True
+Chat,3f9a6166-0df8-49e6-ad70-f607ee9934c5,dc98c328-48b8-40fe-b4ff-a3e5d0ebe339,1177,True,True
+Video Call,a3f92aaf-d1fe-4834-848c-04b75ac63825,a4e351d9-f3bf-4651-978c-0c5bf2573be3,1081,True,True
+Email,25724c22-2da8-4d05-bc56-dfbbef33a704,bece65df-8c31-4b4b-9d95-f205d5f2c90f,647,False,True
+Chat,eadac2c4-8966-4a9c-93e1-6ab57b133fdc,8d8d8242-ab89-435a-8025-d451d5d6d8da,3026,False,False
+Chat,12e8945e-96ee-4bc3-b7f0-c21e3100126d,18fd62a4-b6c6-428c-9d9d-eb729a4877f8,1423,True,True
+Chat,3542bcb3-fdd7-4d0d-8ed2-a12a76ec8e29,111656b5-f364-48e0-abbe-a1e0767a538b,1497,False,False
+Email,d5c6abca-ef7e-49d5-ab3e-bee603620a0d,921caaf1-f7ed-45a4-bc04-772fef97316d,740,True,False
+Voice Call,560c7dfb-6f4c-4c67-b11e-ac454de476f2,64e161af-1b7b-4c97-87ad-de3a99357f94,940,False,False
+Video Call,3ac68adf-35f0-4f9d-9436-acf4237785ef,34fa0bf6-c6c8-479c-a27b-4a3d67278416,3161,False,False
+Chat,dd812830-794d-49e8-99d8-fda045e90cde,92284cf2-f6dc-4bbb-939d-f3e0cf7d4f96,2240,True,True
+Email,b55fd3d4-d802-4404-9234-7f053f742123,c605c3ed-f549-432e-b108-e8cdffb9c8f1,103,True,True
+Video Call,5ff84d67-5800-48f1-b0ea-c96fd54060f9,8c1130a6-7a60-4e64-b92b-77c88d97ebdc,2343,False,False
+Chat,e1e81915-7dad-47c6-afb7-40b6fc68d268,50602d42-b0be-4edb-a544-2e5aa8bc837d,1465,False,True
+Email,bd2546b3-a1f2-4262-a874-bd15ae98565d,ae8ff780-fb20-4db6-9a9d-a26cb1c77c3b,2578,True,False
+Chat,6411fd7d-2d65-404e-acfe-507a852b92eb,6c3d719f-5c98-432c-b910-a9ddb9e0e848,1324,False,False
+Video Call,68edcf07-7e06-4665-9d8f-b6f6870ff98f,72f63f14-865c-463a-9cf6-9535823df625,2059,True,False
+Voice Call,a714b5a0-46ee-4755-b7b9-da05d1b1a397,c7a5a0c8-930a-437d-a0ec-ca214f6c2847,745,False,False
+Voice Call,be264291-d9c7-4c03-8eb1-a9ecbf4bfc71,a712168b-d4bf-44f6-9143-28a908432b25,2961,True,False
+Email,44e57ae4-42db-48b1-b741-9f9b4b848f68,60edeb16-351f-4302-abde-52059d6eabdd,408,True,False
+Voice Call,03b460f1-119b-466f-a533-8f2443383a31,351b57b6-4496-4445-81d7-225631706c6a,1514,False,True
+Email,6f7b7cbd-7b3f-48dc-af18-6b3c445dbaa8,b70380e9-b1ce-4fa2-ada5-975fb9ab39c9,416,False,True
+Video Call,c02adad4-430d-48f8-8fed-7781139929cc,f017968b-a3c9-4b21-8a7e-ddc916240b8e,2761,False,True
+Chat,d7a1e497-8a62-447f-8390-463fce49e2a5,9e55b1d7-c020-43db-a0a4-f0c874bd2419,3088,False,False
+Video Call,5131d266-3406-47cb-a7a7-1342b542205f,31a1a8ac-b212-4fe9-a8b2-86d302ee200d,3419,True,False
+Chat,f5c97c80-9515-4bd2-9527-651c1b13d023,ae78bcd5-15a6-4347-94e5-1f2329a85d60,603,False,False
+Video Call,91ff0f9b-e76c-4510-8b45-46ae011c4280,5de3f1ac-64d6-40f4-b113-82fbb98561df,680,False,True
+Voice Call,1ae78521-dc50-4a4a-8911-37f3e329ff1a,1d65e743-c636-411a-8325-30e67fd319d7,1750,False,False
+Voice Call,e6770fb1-be1a-4f37-91fd-9ab9802a78b7,5ed559ff-ce39-4053-9529-e86f2fed8ae4,2454,False,False
+Chat,5d9ce08d-5a24-4b8b-bd35-06e035a5a04d,791a6136-db4c-4f9a-9e96-34601fce499b,1826,True,True
+Voice Call,fc6e95db-f20a-4c4f-a4a2-fdae7d677088,1e6e6939-6772-4b2c-b538-2cba67930c83,768,False,False
+Chat,fee65a4f-a0c9-4073-9049-b5726e56bdd3,0716054c-7fdb-4abf-91f6-72d9882dca53,1186,False,False
+Chat,a4e7220e-fa86-4b29-98bc-2cf405065926,11fc9692-ef03-4aa5-82b1-35dd9b11639b,3040,False,False
+Chat,88aa6370-d066-4db9-be98-a22d524a69da,9297ea3b-0f62-4aff-9ef4-03816a74ff89,3559,True,True
+Video Call,2b298962-4b65-42dd-b658-9282915e9a45,8a933e26-6b00-4f68-a5b0-c5e124ab18d7,3304,False,True
+Email,93757e5e-d93d-4f61-8dcf-9638a6dd8bb9,9ab26b31-625a-4fd7-ba24-96b11c31972c,3201,False,True
+Email,efd5a343-fc42-4669-b1f6-cc1144a49321,9be6ed4f-ac1d-4674-8448-5f5ee0203462,1597,False,True
+Video Call,ddca605b-76e5-4d20-b177-bbcd7ff23494,114f14ab-9d5f-4648-8bfb-95bcde2313bd,3136,False,False
+Chat,07076fc4-b1e3-417e-8efc-87ff490650f5,d68fdd98-783f-47ce-a9fc-cda7ea2c719a,264,False,False
+Chat,eaf1a4bf-6de1-4465-9192-3142e70301e9,9e4254da-ba6c-4f3d-84f3-0ef673adb55d,35,False,False
+Chat,a827b55a-31f2-4d66-a5c0-6efd65662685,d71b3216-4766-4cf8-92bb-56852258745e,485,True,False
+Voice Call,c1f6c3e5-1c63-42aa-855c-8756e35850a0,fe8d7ac8-fd8c-4405-a0cb-9689c66d3ea9,1419,False,False
+Email,073cd2c3-0005-4ef1-a39f-af3a83365f66,81f42ef8-4ecf-453a-a92c-99f12d4b4b49,1342,False,True
+Email,2ac1d4c0-5915-42f3-a60b-e136b4676597,93adb367-b6c4-4a45-9b29-1c4c21e6656c,3529,True,True
+Video Call,f51e5775-ade6-40ee-8abc-11ea98443c8f,7442eeb7-f836-45b5-bb82-c86966890dbd,3196,True,False
+Voice Call,c150ff04-a96b-4c32-ad05-3759dc0cc3ca,8c9f2b4b-327d-4768-81d2-fbf8c5d23fe2,2593,False,True
+Video Call,618a48e2-561a-4a14-bd26-39d74d9bb1a8,0219bd09-fb68-493b-9aeb-57ec98c58abd,904,True,False
+Video Call,50b451dd-f520-45e2-8b82-3f1e466ee86b,7b153400-ceab-42e6-b13b-1af05bc80ff7,462,False,True
+Chat,3c71b852-c780-472f-85a5-6500f2ecf131,b0825ffe-88c5-4ad4-bd2b-de19bcf3b99d,2242,True,False
+Email,f796d5ee-10b2-4511-a135-865a7599db7e,45469ca9-d7d6-4098-affe-5e1d503c483d,1731,True,True
+Video Call,0aa7fb3b-f236-46c6-bb7b-e86ed6eb897a,2a87501e-81e5-46a0-905f-47715adf4f33,1273,True,True
+Video Call,7c37c13c-35c9-4eb4-b545-52b234981f8a,fc3d930f-360b-4246-9263-595867cddbfa,552,False,False
+Chat,6164eef6-610e-4ca3-817d-1d1abc86720d,72a5085e-7018-4b43-91fe-9bfc0a3ff9d4,715,False,False
+Email,8b09c9e0-d5db-4245-8912-c45a7aa302ed,902ce411-a46e-4ed6-9c60-9f0757ec7bdd,399,True,True
+Video Call,bfb8c502-9399-4a5b-b0d6-adba48e5431a,c49ea7ab-c37e-482c-b9a9-70627317b462,3246,True,False
+Video Call,2abdbae8-e6c7-453e-981f-688407d657f4,9b7d94d9-2e9a-43e7-a46f-d708670e3bfd,3447,False,False
+Video Call,a432c7e4-37f4-4624-976c-7cec144417ff,3ad1cd67-e92a-4fdf-b4fc-0e8998377ca4,3550,False,True
+Voice Call,08377af0-4d64-41d1-a0ba-8cabca52bf6a,4617a90e-5e3d-45f7-b854-c75df0ae507b,3454,False,True
+Email,48f3e3e6-d8d0-4bee-8989-e67f11146e5e,111e9c23-df95-40cd-8a8d-333a5a733da0,1872,True,False
+Chat,c8fd78f5-4fee-4eab-acb9-bfc7ba01c6d3,fb1489d1-2dd4-4dd2-852a-11e9601fae2c,2039,True,False
+Voice Call,139cf8f4-a88b-40a5-89c8-457cddfb19d7,0b52916e-0fc5-453d-bb60-025b9a381914,3342,False,False
+Chat,528d9089-e8fa-48c5-bf0e-fec38df6b709,e280dffb-91c1-4986-aaaf-7e8f57d5356d,3059,False,False
+Voice Call,72f13c7b-ed1e-45bf-808c-1d58d6b0cd1f,eb3987c0-0155-49fa-8df9-4d345d671107,2401,False,False
+Email,f6759465-ac09-4907-976f-f736cf6d3da1,3f8b21fd-c1bf-4ece-81bc-064bdc17d981,3537,True,False
+Chat,8e1af497-7722-4aaf-a6d2-485e5155b486,8e221c02-e170-460b-ac72-7113f14b6139,3224,False,True
+Voice Call,ea90871b-dc98-434c-8bf9-657148e2284c,2b4dd66f-85ee-4c74-bd27-bc61c055132a,1753,True,False
+Chat,e94a7ece-76bb-4a3b-9875-5fd8eead22f2,b4679430-2350-4df3-a6c3-6c5a83eccb11,3161,True,False
+Email,9fa7195b-fdd7-4917-adb4-4b1ea600e6f8,52a20c5b-e261-4675-ab0e-0e364fcbbe47,1940,False,False
+Video Call,8a048977-6c92-4554-b805-d236908bdd17,e202e196-b683-4da8-9d8f-ecc05407c680,1305,True,False
+Email,974c38fa-32b8-4e77-8d8c-c2a81932b812,c42bb072-7040-4ea4-acc2-751b07b697f6,955,False,True
+Voice Call,5e7932a7-dc16-498f-8e17-ab84afc96cfe,86afcec4-288b-43ea-8e49-b57a3a631c0a,1818,False,True
+Video Call,9d4287b1-8611-480a-a950-108dc34932d2,fb6fb3c1-9309-44cf-98e6-26f15a47df5e,1398,True,True
+Email,0743808c-da8f-4bf1-95d2-3b0c97e101b2,bb2636d1-dcdb-47f8-9d5f-3d2871602a4e,2814,True,True
+Chat,4614d01f-699a-48ca-8059-d67b28e4badf,10ee5af5-98a2-4b64-9b8e-f0b0584e9141,3417,True,True
+Voice Call,6ee9a359-d65e-4748-a8d6-403ddf7841a8,6fb7bc07-bcd2-4385-8ab7-f246dab8a821,1064,False,False
+Email,d7119818-d97f-4d26-93e3-44f80c9f7a53,c3afada9-f0ab-4b96-8cd4-901a0478b869,450,True,True
+Video Call,08f3a833-8bf4-4d77-8ec7-1bdb9b614453,b37e4eb9-eacc-4853-b443-b4493bf279ea,3186,True,True
+Chat,472ede90-5ece-48f8-b4f2-a5aad86ab0b3,1ea4f0db-41b1-430b-9eed-a047a2043add,1102,True,False
+Email,451e30e9-fb13-4833-93bf-e671f6afa9ca,40c1b6c5-4baf-4712-9f78-6c2acfeb31b7,3221,False,False
+Voice Call,380597ec-bae8-4345-bbb8-e432b61e89c5,ba8e0ba9-0f0a-4674-bb16-6d22d87b5f59,776,False,True
+Video Call,02f756e3-71dd-451f-a9a1-4e00df87c8a2,a33c2df0-a2a7-4a36-993e-72709f8d4a7a,1173,False,True
+Voice Call,e923b1bd-735e-4256-9d02-bfbbd714cb91,05e1bbd2-5df5-4069-9e98-f576d4e84994,829,True,False
+Voice Call,ddd55941-a0bf-488c-ba4e-647c2f04d0f1,2f848510-6ad1-4dc1-b24b-b2f34ef8641d,56,False,True
+Video Call,1b35f5b0-83fb-4700-8db7-38a2498c8e53,bf2c20bc-0420-428b-bc8c-343ba0feadf6,3038,True,True
+Chat,d461f0f5-9f8b-409c-aa5a-daa2e8db90ea,56295f09-d982-48b9-8a42-0715ad407620,3290,False,True
+Email,a82302b2-17f4-45b3-a2f2-69e5d14cb0f8,d0b3ff30-75c1-4a7f-975a-0bf89d746306,1705,True,True
+Email,8e276477-4090-45da-8686-7d03813bb187,bb268fec-a3fc-40ae-ab50-ef2392deae4b,308,True,True
+Email,0ec2a585-ec0b-4d98-bbda-eda70b8fee8f,df47b361-9d38-4ee0-9144-7edf3debff4b,1401,True,True
+Video Call,41d065f0-864d-4866-83a9-b419261ecc06,be6aefb6-3201-4de6-a163-ad9061f01878,866,False,True
+Voice Call,f7d0e286-4d2f-4f70-ad45-659f59506713,36d29af1-61be-4c73-8a71-c2594adb9831,1565,True,True
+Video Call,eb7aff38-1b42-4887-8060-bb9f1a7f4551,842d0d6c-be1e-4b58-9513-e6c253fbfdc4,1078,True,True
+Video Call,45caca68-2e94-4fdc-921f-ad7707ec96dc,15ba5c9e-ee0b-4a57-8d4c-4865f99dbfcf,135,False,True
+Voice Call,39f9c341-0477-477f-91b1-f2421139cca7,4d56dfae-4bb7-432d-afdf-70afd3dc8fb8,3056,True,True
+Chat,6eb19b89-9399-4059-b30a-6797a019cba2,e0fe336f-94a0-49df-a184-0e8e4a754a9e,1330,True,False
+Video Call,536c1b1e-8599-4f0d-9e66-5f64ee652d3b,547069cb-4406-4940-a70b-b1889031d984,1627,False,False
+Voice Call,141e67f8-6bde-44ac-8ed6-e465f447c3ce,9829ffe7-e7d2-42df-9f87-df9c4f21c37f,2308,False,True
+Voice Call,13aad14c-4cb0-4c1a-8e74-84c975e301e4,fc503758-fb56-4b44-a471-cbc0d60a5b89,1346,False,True
+Chat,2fc90726-734f-456b-ba8a-de205d5f3511,8ed26859-0913-4fbb-aaac-6e10b61229ff,1799,False,False
+Chat,c5bb9eb0-dfec-438d-9bba-38575bf3bbe3,f30ab64f-cd5a-4717-8ded-c741d1242599,1111,True,True
+Voice Call,ad74ea4c-55da-4168-b24f-97db0e3e74d3,c156f2c6-6879-442b-95f5-3c1225723d57,3319,False,True
+Chat,1ca005a1-dbb5-4b18-b9f9-f6aee9db694a,7221afc5-629b-4d3d-89a0-df5a9c120b57,1342,True,True
+Email,0062b4ac-1104-4c6f-ad94-54515feb0a28,48a32774-e8c1-4542-adde-64f2c4864e35,321,False,False
+Video Call,15fa4ed3-eb0e-4f98-937b-bc7701288ec5,dbe05ac4-dcbf-49e7-8869-757ad2dfc049,1279,True,False
+Video Call,ed132935-6b37-415e-9280-6fd365368985,8b8fab37-f95d-48ee-9b4d-df3d04d7c8b8,1367,True,False
+Chat,e6cc9167-517c-40a6-8a7f-ab86c9333e9c,d8fd0388-b48f-4146-8525-0a63701e0bbb,2254,True,True
+Voice Call,755b302e-d891-418e-bea3-2e67a4ae6f69,5c39f105-b97f-40c0-b408-5fc203a6ece1,501,True,False
+Chat,d12c0565-8b89-42cf-9428-7a7528dfa661,418d58f5-2326-4ec2-a302-d299860074cc,1930,True,False
+Chat,3063976e-36d0-4d7d-ac50-dda54856613e,d07ebef0-cb89-4dfe-92cb-d8e0a95a8028,1611,True,True
+Voice Call,3a00d7f9-b8b4-4b0e-b996-faf5bf19faab,43d0ea87-2bb5-462b-98c8-1a22d997e2be,1905,False,True
+Email,38a3c519-adaa-412e-817e-4be93ba5172f,cea05af5-3e00-4671-a11b-0c236a50883d,1265,True,False
+Email,6356c1c3-99da-41ce-b6a9-1d33933f1afb,874738d6-e5bd-4224-9708-d9da0595703b,2070,False,True
+Video Call,2d1475b6-9205-4e5d-8cff-45d383d245d9,f6b7e3ed-11b9-45dc-9d3e-18ab0a5feb0f,1700,False,True
+Video Call,c72b4ea8-e13f-4ba5-8c24-fcc1ba870733,5ed84f08-42da-4b9a-a584-8982e00e4278,201,True,True
+Voice Call,9f7c6364-8de1-447a-bed8-29315e5db077,ff063a9e-7d52-4129-8279-bb302c59e71a,2202,False,True
+Video Call,c5f66b48-5f99-4868-89c1-18ca11879e30,dbadf1a3-cd8c-498f-a6d8-be31c4b943aa,3487,False,True
+Email,9694a3da-f64b-4f63-b005-55155e7f5da0,a65200b6-8ad1-40fd-9a79-d54b5650b0ad,1776,False,False
+Chat,e706bd88-c44f-43e1-b60a-bb2fdd8dd284,5ae3a2e8-3171-4105-b047-dc0de3539bcb,3218,False,True
+Video Call,5ed9dfaa-22ff-421b-8e79-0d7f636bd601,63482df2-21b6-4b73-b548-583ab55961b4,2092,True,False
+Email,e5eea198-4a37-4ea1-a22c-85d379375147,2508c9c3-c2dc-47f0-a8ec-5ff56862d503,1428,False,False
+Email,5694499b-1c5a-46bd-9ed3-d5324085b0e7,ab6b092e-f85b-4a30-8a8e-5fa00abc78c2,2008,True,False
+Voice Call,86586db2-221d-49f1-a807-28ac2406c499,669bf267-7d28-4477-8f17-c3ea07ec37c1,436,False,False
+Voice Call,e0fa5d19-5308-4b01-8ad7-51e7995d8c55,79b7bbe8-29e1-45d2-afc6-59b4c5e5deef,343,True,True
+Chat,e0e3541c-fe30-480c-a69c-0d5bf7548691,7e2f8827-eb03-405f-962c-ea3ca43f1af6,1012,False,True
+Voice Call,ebce33ae-9fee-4884-a194-c6590e18f489,c0aad533-e54d-43d3-8297-2ec5ce2b0dd5,1536,False,True
+Voice Call,ca050c12-d6db-4152-bf09-7fa0c1763ba6,3b2cb571-5072-4bf4-a3b3-09237543ba66,2930,True,False
+Video Call,bf3fb502-87b9-4213-9bb4-dfa9974fb470,46b9c6d9-bcff-4280-b7b3-95f2e37db3cb,2008,True,False
+Email,bb9595a3-191c-42c4-b1b2-bb34c4e92abc,3ed4f969-4688-475a-879d-50a3055476cc,1463,True,False
+Email,08e982b6-d523-4b00-8a19-3e50f50833b3,35020262-5cd6-4991-8688-164a9650fcad,2966,True,True
+Email,ce887815-e8c3-40ea-8ea8-107a30ccc204,eff8e2b2-3083-4b7f-abfc-a56fea98ff0c,2603,False,True
+Voice Call,ee2de71d-1e94-47b0-8e3e-c6774978105d,95c9e8b9-0ac1-454d-b99a-e0aa07984d7b,2929,False,False
+Chat,37d90a14-9ed7-4537-af59-5b9dc9e47f57,a0156399-f3cd-40e5-9d9c-2d975546baf9,3472,False,False
+Voice Call,c6939fff-9981-4204-949e-64b6391d27a8,05e508a5-f179-4aa2-a336-fcb15050dbe1,3600,True,False
+Chat,d0e43033-d450-40b6-9a21-e7669d702afc,f47d21e3-ee8d-4c78-a83d-8e4fda2edddf,2969,True,True
+Video Call,19e45ca4-724d-458e-943f-b6edf14745b3,c1fdec80-9f1b-4774-9e76-ac5754ed1a74,2096,False,False
+Video Call,5be9caf1-4ca2-4a57-89a3-bd5b4f66ed0b,7561a622-c887-436f-9981-89c7a5232a6c,3174,False,True
+Voice Call,da00b2ca-f8b6-42cc-91bc-832029d6b32e,ba9e9514-b635-4f37-8fd2-ee01fb48e4c7,1909,False,True
+Voice Call,6eaf1658-41c3-46f2-ab38-c2f657bdf3ba,53f100ce-c6b3-48ae-bd7e-61e842f418a1,1058,False,True
+Chat,fbc501ab-c653-4b4b-b4e4-a3579194fa41,0c0f0ebe-e80c-4fb8-9e86-f23f91037f67,2859,False,True
+Chat,e0557d6c-9d00-44d4-9d29-d77138399d25,2654fab8-4523-4d03-8e11-165a22730e84,1203,True,True
+Video Call,260cd8e2-aa61-490a-aeb3-1013f137e8d5,54c65979-d1af-48bc-931d-e8290e39f670,2356,False,False
+Voice Call,b46e476f-7131-46e6-a4b0-63e278264390,98fec7f9-a043-4d3c-8cde-f5ca408a684f,604,True,True
+Email,bcd55e97-7e6b-4a91-bc60-713f4235b511,fd20c2a4-8866-446d-8d23-f613bb073254,284,True,True
+Video Call,fd7fa632-b030-43d2-8e9d-22e0e6f8fa65,b7475f6f-7c15-4a75-94f1-1510eface8df,3367,False,True
+Video Call,820896e2-ea35-4b93-a488-917baec29b79,ce186e53-acaa-4b42-afe0-43076c3eeb8f,2425,True,True
+Chat,93ae1930-0352-4eb8-9d39-c38d2070066b,76fa5054-fa10-4b50-b78e-14429a8b4a7a,288,False,True
+Voice Call,6f094e83-cbce-457a-b8f5-a59c2f463a7d,84bbfc16-92f1-4950-81fc-74edc05311cf,1391,True,False
+Email,f0a4daa3-561d-48dc-a2e6-8dd6112d9af8,5e8b475f-db8f-4242-82c6-d49914aee82b,699,True,False
+Voice Call,3935140f-a323-4bd4-9a9c-84cc62726577,40de5d95-9f2d-4749-aa47-2f605ce73f23,1907,False,True
+Chat,39c36e21-bb4b-43fa-919a-af854137a90e,4ed771c6-f4ec-4f68-9eda-da242c33cad5,1856,False,True
+Voice Call,0dad1c4e-5025-42b1-966b-4be07d99ce65,65c2a10a-2cab-4c00-a302-630c241c4231,2059,False,True
+Email,2d367bcb-3b2c-4ba9-94df-b5fd3fa15e91,75144f4f-0669-40fb-9f84-2186437b4194,2593,False,True
+Chat,e54c0c3c-01f6-46d5-a0f0-2fbc59213b89,df55fa78-c4cd-43c0-9393-9174c92056d4,3377,False,True
+Email,c2fea08a-349c-4c8f-bc38-94689b6e3dbf,fd0cac86-f591-4dcb-9304-123d76828d77,2820,False,False
+Email,da935335-a6b3-41f8-bdec-fc2636454117,c922dd90-cc95-4280-b2e6-d4d34fa7c2fa,3585,False,True
+Email,0f5ab312-a0a4-4ed0-b8f0-c98fed1217ef,9276cd59-dd6c-41e7-b552-30a78bbad013,1421,False,False
+Email,ac0f39dc-a0ad-4d9a-a8a2-8efce0a4cdef,dc20c908-34cf-4a86-a53d-ca3dcd72a974,3450,True,True
+Email,88a05c79-d1eb-4746-a7a2-81f7750d1b2d,36778a96-1472-45d8-b1b0-900a8ca4bd4a,1163,False,False
+Email,f8192c2f-f06e-45a8-9788-39829027e3f7,deb9f452-1daa-49f9-995b-bc515a4c9358,3278,False,False
+Chat,55837f8b-22f0-4e91-8925-6100fa526a6c,546c05d0-3e85-4255-8b79-2cd36f9c813a,1376,False,True
+Email,f395d794-539c-4288-82e8-83ac5544b255,4b7b29fa-72a6-426e-acd1-6493e341e160,554,True,False
+Voice Call,3ae3a540-2710-4a02-b8e6-a054e3e2e033,80515c11-61bf-4214-9d0d-6c1bea29c95d,1534,False,False
+Email,352fb344-715d-411c-9cb5-ae89a39aa5c8,da800cc8-ec2d-4bad-920d-249f1be809dd,3499,False,True
+Email,b2d8a0dc-6e43-4990-a703-f74d97711645,f752a12c-4d18-4f85-8c5a-5c0cd2b41d55,1614,True,False
+Chat,e92095fe-b986-4dc6-a183-cdc06f7cc094,465d5326-7a71-4f11-ad37-9deb42d2996c,1459,False,False
+Chat,6bda5194-6fff-4b7a-8187-08ed4873c938,ec1f0964-2212-49ec-a6ac-ca08965a2fdc,1427,False,False
+Voice Call,03cd0a8f-4c25-4961-99dd-25f1a6376ad2,259470c2-55fa-447c-a6a4-e62199ba618e,1885,False,True
+Chat,66575ef5-52c6-42ce-8b2d-76ca6d163062,e89a755d-804e-4935-aa41-d03786087b5d,2432,True,False
+Email,539104ff-72ca-4ca6-b872-688ad54f6b23,bdef0ae2-47d4-4a76-8223-f414010d0f97,668,True,False
+Email,3b2deb4f-5dba-4055-ad76-30289666cd74,b40d773d-b223-490f-b0d3-8931b46702dd,881,True,True
+Email,b47cf51e-1ce5-4ff2-97ba-a3f7774753d4,011e35af-1bae-47b1-adfb-bbdffe912198,1221,True,True
+Voice Call,44f22bc9-392c-4db1-b332-d440148202ec,ed3ea5e0-820a-4352-94c4-f746d8ecd6d0,2448,False,True
+Voice Call,b325c588-38b9-408b-aebc-814052fb6c78,5e7c44ce-0ef9-4476-8f95-cc09482b98e4,1558,False,False
+Voice Call,866ab129-4985-4916-aa1c-651a3b6c471a,31778a2a-e8e9-4c4a-b9f3-447016c9f09d,2114,False,True
+Voice Call,0e83d797-3a08-4fd7-bc86-4c51e5612f11,808a7ffe-7791-485a-a47a-868b02994279,1525,True,True
+Video Call,e0e2b14e-5130-4f6e-a551-d3eac374a7ac,93579c3f-1287-470d-a2bd-e63505db6877,267,False,False
+Voice Call,4e3085d3-3ecf-496d-b509-5c76cfd47255,f5767341-80ef-46cf-a1f2-05160db6af9b,1127,False,False
+Voice Call,ae063b63-d6d4-4a78-9b21-74b8c1abf3ce,59b1b91b-2c52-4a0a-8d5e-841fc18f8854,422,True,True
+Chat,74f8f6f8-3f41-496b-b95b-3ec3fe5f4fa1,8bf3581d-044d-4ef6-8b91-334f5f556991,3169,False,False
+Voice Call,767e6e0f-7eba-46d0-93f1-8d2512675274,39ef7011-8d80-4e49-a19d-230851e643e3,2401,True,True
+Video Call,3d6a8d58-fbb8-4bbe-a127-49f663ceb147,6560ee0a-6090-42e5-9ce8-caabcca4722b,2330,True,False
+Voice Call,e6cce528-a513-487f-ad21-029fd4a444ad,641624ff-6719-42ed-8559-d79ace83b63f,3508,True,True
+Email,05bde86f-ff8e-4c17-926b-6875090275c5,74807e5b-23cb-4c89-a486-3320f19e8f04,2148,False,True
+Email,9b37b9f1-40c4-4bca-9cb0-7dfc1ef08253,c23df1d3-b4d6-4fa3-aa60-7313a3b7e702,3392,False,True
+Chat,c252661f-9e55-44ed-acfb-239e75eac9ae,0dfa5afd-a7ec-4da8-a5cd-0e4d8c196bfb,3337,True,False
+Voice Call,89145f8d-5ef7-48aa-80a5-a3839f6e96d6,404fdf25-2801-459a-b817-33b5048dc850,3498,False,False
+Email,966daada-51a1-4358-a2b5-b50425132f73,4476d269-99ed-48e5-8332-beb87f13f10d,474,True,True
+Chat,9e4d8dc6-3997-4d65-9a17-7f0e7e8b1ea4,0c3564b3-499a-4c3d-a971-6392b4474c50,3222,True,False
+Voice Call,5bfb25a7-fd9b-4675-895c-6ec8e5be9270,58c688d2-e6ca-432d-8b05-d95f686be737,819,True,True
+Email,517521b9-de2f-45a4-9dd7-a66ea0a9db81,80418811-310c-4fb1-a6a4-2f0ab1c32558,552,False,False
+Video Call,21acc0c0-ee32-4179-a9b2-4879a5d3c05a,785de179-2a51-4ef2-bf62-43836099e770,1151,False,True
+Video Call,72b82eca-b058-4406-80c5-04abd91501bd,dc8ab52a-3744-452d-a3b5-e67b8881bc1c,1403,True,False
+Video Call,336b2097-100f-432f-990f-ccc8c9c892a2,82a75019-02e1-4d28-a70f-9d53da7b9a20,2446,False,False
+Email,18999009-98be-418d-b9fe-51b5553ec77d,803577d1-3c3c-47c9-9222-e07b2a35c54b,2823,False,True
+Video Call,f42b4089-91bf-4dba-b534-e4543c2ee06b,d225d85a-6b26-4ca4-9655-f699ba6b7cff,1594,False,False
+Chat,e34aa7ba-6438-4784-be21-5b732620b416,6f6bb2a8-651d-4546-86d7-306f0724758f,112,True,True
+Video Call,e81e2fcf-87c1-4f85-b525-c5748e5f4e00,f6db002e-a6a2-4e6a-9cc4-b32a1151cd3f,1775,False,True
+Voice Call,3a2e3062-41da-415e-97db-942aa68402d8,ffe32496-6bb9-4f6a-9fbd-72b7676961c8,2795,True,False
+Email,211a4235-b687-4149-ad71-6b87837b6518,cb1c2e37-4774-4526-9ca6-e938c437c155,2212,False,True
+Chat,f5aff873-8721-4b32-bffd-db9ee3592061,ca2007e2-aab2-40b0-b597-86417ecfc3a1,824,True,False
+Voice Call,b4d112f0-7582-489c-a473-60a4ace4e92e,41aa9626-327f-465c-aa9c-061e14d6afb8,2903,True,False
+Chat,dddfbb0a-a196-4426-a77e-189e347128c7,563b2faf-317b-4b72-884c-3ca213c29c3f,399,False,True
+Video Call,84a39d8e-0798-4336-b246-95d70a91d7ff,8fc43813-e9ed-4dc9-b80b-3f5ec5d0087d,2113,False,True
+Voice Call,bbaff2c8-0779-40c2-904d-8adf8fa614cd,972b1993-402a-4821-af04-d25ee7613a41,2077,False,False
+Video Call,8a45e3bb-efd4-4a70-ae5e-6485e7c32f81,742e88f7-6b96-4f88-914f-f19218a84bd8,803,False,False
+Email,c1a25909-3440-4a66-9909-6a37d08f16e5,9eb251ea-6569-47d6-9e3b-0a76c7f6922f,851,True,False
+Video Call,a9ce8fd0-dadc-4886-a6ee-f2c87d250bea,fbcbdf24-f72c-4c55-a106-85e17bb8b8c6,1805,False,False
+Voice Call,bcfca6ce-715f-4be4-9255-f7d4ae6e8a91,23027e9b-6db9-4558-ada9-a932988e597b,281,False,False
+Chat,5aaa4959-8cbe-468e-a158-dd7c9c99effc,8f050dd4-8ddc-4750-a34a-4e759d612881,1456,True,True
+Chat,6f0a80db-16f4-499e-ac2b-180a640c7477,ddf9aa9f-15e1-492d-9e82-5d10b1d93cd9,2762,False,False
+Chat,1c3d4a30-85a1-4f7f-a5d8-396feaaa88ee,e28b3058-52ef-491c-921f-410d33450f00,3100,True,False
+Chat,39c77e7d-7225-483e-bfa3-e1c27c48592d,d561eb8f-52a9-4da1-8de6-97af25869991,3284,True,True
+Chat,9a58d16c-53f0-4d8e-8270-868d0338157d,c1fbe623-bffb-4aca-b5bb-57867485e5ad,280,False,True
+Email,eb7e4340-9efb-45b1-a542-147c4aeab6dd,1b073296-c1c2-4c85-8065-562927b1d91c,3259,True,False
+Video Call,a10f9377-6027-459a-ba6f-02784227e217,3f7ff235-097b-494f-a670-3e387acb80a1,1052,True,False
+Chat,48fe1237-7350-40d0-b9fc-d320d4070e20,5629c790-5b6e-4f5e-978b-dfaad25f6787,146,True,True
+Video Call,98fc4973-0491-4db7-aa7c-0c6be8683d63,a998a357-14cc-48bd-a9c1-a57e32459208,1586,True,False
+Video Call,988b87cc-84e8-4125-aae8-39a6c062f212,374b1fff-2a7e-4fad-aa5c-f65d7b359df0,3181,False,False
+Email,b915955d-96f8-4806-9478-3ba5758d2e96,c3ab7079-425d-4e18-a8bd-b638e17fb5bd,1153,False,False
+Video Call,efdb0978-20fd-4f6b-8093-69974b59726a,e919c6fd-4906-4146-a76f-37148aa8ad47,1318,False,False
+Email,7e73e10f-bf88-4dbb-b3a9-96534e591e9a,eacc7669-2df8-40c5-a91e-de18f2e5a516,2240,True,True
+Email,13d5f25d-7d3c-4f40-b2be-0b50718f9cd9,c04b62b9-99df-4487-83b8-59f4f6101e11,98,False,False
+Voice Call,79267c20-c311-4428-af6b-26138a509e0b,4993afb3-8687-42c1-8c42-daf194bbdd88,1888,True,True
+Video Call,abcb1500-9283-4717-b80c-56585e99260b,fc3e3a9f-9e4a-43c6-85aa-0d4369dbef54,1529,True,True
+Email,b7055132-de78-4145-98c5-dcfd7cafb361,7316c37e-2062-4a05-9a15-a24f22b7fe59,1557,True,True
+Video Call,6cf6d38d-fc5e-4403-a6fa-44117b4e81bf,a2aa368d-dcd6-4ce2-a5ad-f253ce9f2d26,2525,True,True
+Email,32ced9f8-53a4-476f-87bd-48e5a014d1e1,46564dac-8b00-43ab-84c6-8851af6960f0,2534,True,False
+Chat,5adcbaac-1179-4cc6-bc63-bd7771362224,8afca3a5-9300-4c21-b433-621f17c90693,470,False,True
+Email,f62a42cf-aae5-4901-b613-358d567c0d06,0a95a99d-54d6-4a4c-9e2f-6962d9591b08,592,True,True
+Voice Call,c28b3815-e24f-4255-9e99-5754e02bdc56,30ef871d-b10d-49bb-9092-5897ff72f927,2691,True,False
+Voice Call,9bbb31b2-12c4-4de7-a720-f5b0d60460f0,72ec7100-1812-4534-8035-2a2d5b8cec24,620,True,False
+Chat,682a7085-3f06-4179-b504-a76eddebef5c,d2b765be-3c28-4b8b-bac0-863b716561a2,944,False,False
+Voice Call,0f634ca9-54d6-4fe4-a06b-fc5257d7f084,ca54b4bb-c852-40d2-a887-1a3676df1610,2803,True,False
+Email,10cf42cb-f712-415a-b9d0-9c25a5f40eec,6e726664-828d-4969-88db-0b1e4e4625dd,1647,False,True
+Chat,8b36737a-d658-4f7f-9a23-c69c0c68b4c1,0d7f3fc0-e273-4776-91a1-318ae10c4609,3014,False,True
+Voice Call,244edfe8-6e95-411b-9aeb-3ef3b428c165,c2cf04dd-533f-4e7b-a1c7-c6a09b794f65,507,False,False
+Voice Call,216007ee-a281-4ae6-b148-727db1f0455d,3fec165e-a06c-4e5f-a932-392dc291cc04,2075,False,True
+Voice Call,b25acc85-9da9-4183-8795-5f946d4f7959,58cdc157-b3cb-4a07-bfa9-90336b1362cb,313,False,False
+Video Call,d693d271-5415-411c-8ae1-e153d50caeb1,5866696d-860b-482f-9aa6-5b542ecbcdb8,3397,True,False
+Email,6f09f1d6-25f3-4d33-8da9-03e7e740f765,aa376023-887b-4819-8904-7f0b58a4f4e6,237,False,False
+Chat,0508afeb-0205-4091-bbda-f4d193a705ed,6886ea68-898d-45e4-8200-8568077312c3,63,True,False
+Chat,968ee938-84f5-49d5-a8ed-a346f83e47a8,03f21820-e0d6-469f-95aa-f48dc9b1744d,2093,False,False
+Chat,b3473bea-56c0-4bbc-aae0-9e5eaebb2a07,3b413451-ab82-4985-9891-c778e9b23915,2980,True,True
+Chat,85e80ffe-2348-4809-899a-453c15008fa2,c11e6271-03b6-445d-95e1-e1c80ffac7b0,2464,True,False
+Chat,36828460-08c8-4816-94f1-b4c47414070e,2a15e84f-d8da-4920-b403-5cdbd42c143b,1940,False,False
+Chat,7786320d-cbb4-4525-b36a-27abc7c8d1f5,5d042744-d200-4e13-ae3c-5e83c49bcea9,1811,False,False
+Email,0d3cc250-2140-43f9-a931-9f3d6c88d123,79dffea3-31d9-44ab-8940-4ae9047b1da2,2803,False,False
+Email,0f4650c6-8ba3-44f0-a3db-446d100625a5,0b17de23-de1d-40df-9d35-731aca4be0e3,3284,False,True
+Chat,0d895939-4d92-46d6-9e26-d02bf9999aac,bb8a10e2-b6d3-449a-9293-32d0ff438830,2989,False,True
+Voice Call,f736008b-cb12-4e24-bdad-fce4d004a518,b011573b-0c1e-4671-a62a-e924bbb97dea,2700,True,True
+Email,b69e6dcf-69f3-4c37-be27-66229d3aefaa,733f90c9-f914-41c4-b765-bad1a5a28257,331,False,False
+Email,ba948c5f-b0f5-403a-8e12-389f68ec7c1d,c4737f5a-2e85-4aa8-806c-11dd4e6ef7c6,1687,False,True
+Video Call,749605c0-130d-43c1-8dd4-8782aa7d4b0e,3831cf00-59ef-4066-a45a-addb897fe219,1569,True,True
+Chat,2cbe95ca-7a88-4822-912f-ce0ec665a8c5,5e5541c4-de10-4e88-a703-c74bbae290da,3365,False,True
+Email,36189f99-f250-4915-8544-14692d342def,51a202d9-cbe2-45bd-847e-ece3838e1fdc,1054,True,True
+Voice Call,1906c9f3-f63a-440f-9579-f29317420988,1bac6558-137b-42be-903a-44d010fb48bc,2846,True,True
+Video Call,bbcd9848-b954-4e65-af4b-39e732a413f9,364447b0-e669-43ef-8cc8-7e3820b3c830,1749,False,True
+Chat,fc34941c-0a06-4471-b1f3-a773bdd1c131,9a950ccd-99a6-496b-8695-25b7810484c4,1151,True,True
+Email,81061531-4625-4e67-acdd-c86760fcb993,24607f54-b3e8-41c6-9f01-c6ffb24afa62,194,True,False
+Chat,cd676c70-56d4-4283-99f0-7c58b95d3815,9b5521ac-2ddf-4385-a4f8-fad32ea96be3,2363,False,True
+Email,36771cd4-10cc-44e9-98f5-130fa3063ffd,6871dfc5-bef8-48fb-88d7-2e1996b2f4a4,180,True,False
+Voice Call,256b45b5-1af7-4744-934e-872849f11303,ae3642ab-4dec-402d-a4a4-b97c169acbf2,1755,False,True
+Video Call,7ac4c51d-623c-4bbb-873c-90f0078369d1,5602520c-3c39-42b8-9efa-e3be661feac5,2652,False,True
+Voice Call,cc004716-aadf-48cc-8d68-6bb25d3c6eb1,bfb22dc5-e29e-4447-96d3-44473056d684,2680,True,False
+Chat,f47c6653-0d5c-4590-9deb-da569100b14c,5f152a66-9079-425b-8187-45a105e9c826,1207,True,True
+Chat,92ec8651-9e62-4b1e-8f17-ac01b55c277a,3033444c-66ba-42ab-af82-36e433d14aab,2856,True,True
+Voice Call,f50de42e-06ac-4b23-aaf8-f4028870a64a,55cf626c-f632-4de8-afbf-7f79482c61af,1944,False,False
+Chat,4d2b116b-55e5-49ff-915a-d865aeb1c21c,20be57f7-c884-493c-babe-bad0e79b1afa,2455,True,True
+Email,6e0345e6-452c-4239-9c72-806875c78138,675a387c-5a55-4e0b-b1d3-3a9e18322b8f,2362,True,False
+Email,44ce7fc3-13db-448d-84af-06a4aa1e01a2,a9410819-3f63-4247-baef-4264ff785468,2265,False,False
+Email,33ce23cc-b64b-4761-9448-212ea468c831,16d96356-432f-46e1-8e19-0a0bbe6cb87c,125,True,True
+Voice Call,a8593697-ceeb-4ea5-aa92-2fd96d1b7836,dbc00847-5748-40f1-b915-e37dc8570bf6,2723,True,False
+Email,e7a0b391-2c66-4267-8b71-1a8f1e5debeb,7b6b04a5-a359-46f6-9f4d-bac80775fdea,871,False,True
+Voice Call,5703de64-e11a-4d38-ae8c-9b700a67fdff,ff433354-33d5-4b20-a938-23c632fdd3a3,2205,True,False
+Video Call,f4d5be08-eb24-4561-be40-fa304b81b6b2,f62f48cb-6278-4604-b25e-9916bf2fc477,2309,True,False
+Chat,e8eca316-0df5-41d4-8433-1c0c8738dc99,b51f2c55-887c-453f-b2f9-4c2dd219a6b1,3236,False,False
+Video Call,4b3e5a29-c45c-4408-92c4-bd9dee6e2e28,8b881499-7039-442d-92db-92f02cd397de,831,False,True
+Chat,2d9570f5-f1e9-44f6-ab35-e21ee04df417,6eae0c64-f366-43aa-b24b-9535375a9782,2272,True,False
+Voice Call,9ad2ba56-73dd-4c63-a1c5-b7b0d022f133,a66991c1-59e2-4436-a43e-72e5c6d0974a,15,False,True
+Voice Call,abce1172-3cf0-4d0d-b935-572df742ca38,8cd58c4c-9e13-402e-bb66-7d01a41a1905,853,True,False
+Email,4c18db1a-1bf9-4f6b-83e2-21d067a4350c,e325aa1d-2599-41bb-828f-c0f85854474c,1931,True,False
+Video Call,e866b380-b70c-4a1e-97c1-1b2a59f8b19c,539f1dfd-a1bd-4ce6-9467-974c376d13d8,1819,False,False
+Email,8e065f5a-0798-4aeb-b86c-3bdc1cfa8abc,02af4a3e-0a05-4229-81a5-73574ae45868,125,True,True
+Chat,536d3dea-c2f1-4afd-9518-6171dff5617b,fb09f0d1-0486-4430-aa3a-f800c6d23485,110,False,False
+Chat,465855d2-d81c-4aec-828c-f8d21534b1a3,b7f328ac-36e5-4e69-9230-ccba495a1eb3,2524,True,False
+Video Call,3c9f5f87-0234-4214-9785-b5c444cacdd8,830654a9-86e6-400c-9112-bd66260b67a1,2790,True,True
+Email,846a531a-e4a1-4530-a479-848c69d6c13b,08c46a32-0c9b-441c-9f92-2bd9791e1acd,1527,True,True
+Chat,dc4f758f-355b-42d6-945f-13b3299422da,df5d1fbc-4c99-4abf-bfac-56fe33177fb9,606,False,False
+Email,ab1f3d1a-a604-45a7-be68-cda3e900c5e1,ebdbe521-19c4-4fc5-8d68-9c93678503df,3409,False,True
+Email,3a31aec2-c09c-49b1-9caf-07f5d96b18aa,63629095-168c-43e7-8bc9-6f4e7a60da88,1005,False,False
+Voice Call,f6ca88c5-d25e-4acc-836a-f3b5b7a8caf7,57938d55-d594-40a7-b9f3-f79b3143301b,1189,True,False
+Video Call,7e776752-9c4a-4991-b48d-805270d09fa2,271fdad0-7ec9-4106-9da1-162934d9178f,3546,True,False
+Voice Call,850c8acf-3d0d-48b9-98d4-25950b06fd83,87781d52-e696-41d5-96f0-47fa04e296c6,1409,True,False
+Chat,457823b2-1375-4c33-acea-9a7da689aa44,b8f1179f-2e84-44c6-8b4e-03d7ccf7bc94,1326,False,True
+Voice Call,945c6a4d-5f56-4933-812b-ec8f1b893d9c,1372c3b4-82ff-410a-9d2e-afcd647379a7,2585,True,True
+Video Call,09899245-d2c4-4f90-b10b-b9e95559c007,6c78fcb8-c11f-4230-8181-07b627a96e75,3083,False,False
+Email,d73dc2be-ef85-48fc-8749-455a34e49adb,66bba973-4b2a-4825-bd59-32a38e537f2b,1112,True,False
+Chat,e9d6daaf-dd46-4e3c-9b81-559d04fb0284,6e5fb7a7-4683-4884-a216-65f4b8f39f14,721,False,False
+Video Call,b8594a2a-0fa6-4a29-813c-55f523a24862,eee895c9-e551-41cf-8ad1-015a24b5a7b7,1150,True,False
+Email,2c3e3cf5-4733-4478-877f-bb7b8ba34d5a,45307320-e513-4119-8db0-a30b678f91da,2306,False,False
+Video Call,1fc33e5f-8b44-405b-916e-47476a02191c,57103865-cc31-4717-969d-cd6916ca0151,135,False,False
+Email,eee5a387-35e7-4136-80ed-5a00d80da3f5,b1d7e085-e237-40a8-8e25-3c942cc3a5b7,1760,False,False
+Email,a7c89e93-5820-4d7c-a73a-1cff26c62116,f923c342-d41f-406e-b490-b6c2558df76f,1992,False,False
+Voice Call,ca4a958c-ae4d-43c2-a2f0-feac59d0ece2,66188e43-fe6a-4064-8959-20d4bf444e04,1103,True,True
+Chat,5980eec6-4498-4a51-bc58-153cd2e26d67,51d2afea-150c-4ab0-822b-20a9c40d9c9f,1926,True,True
+Voice Call,13b13118-410f-41bc-800c-7525911b62f7,db4aa48a-6210-4250-89cc-538646e22a22,1592,False,True
+Video Call,8cc12524-2038-4123-9010-eeabcdd82e95,2778480e-8c21-433f-84a7-e70873f7c141,2325,False,True
+Email,abb877f2-ea54-4e1c-8cb1-50c81d893d38,4a83a112-8352-4746-acfd-c2bb6e159d35,3050,False,False
+Chat,b0a6b926-ae85-4a76-bf26-5148625fe43a,355ab99c-4a10-4085-b57c-c152bb6d47aa,981,False,True
+Email,d23c7150-635c-4bcd-b5b4-96ec357689d1,b92abeb1-4a66-4200-af00-7e1d24e36b67,596,True,False
+Chat,c376714c-473f-4664-9140-41f17f7592e5,4da5db79-c7d2-42f1-bf78-64309765689c,3399,True,False
+Email,54c89cdb-5064-41f0-bd4b-34354d710d0a,dd3de81a-2865-449d-b2ed-fa9fc3ff805c,499,False,False
+Voice Call,4e775d9f-5967-4d51-bbb0-a6c9f99e29e3,472552db-8b08-4d09-bd48-a985eabbcde7,3284,True,False
+Video Call,b3000837-039f-4743-88e8-f935f1489d49,ef6edc61-f1ae-4a35-b11c-d6847bf845f3,2544,False,False
+Video Call,419c1d79-4c5e-486d-9fe7-d6ef13625664,7bf67ebb-f9b7-49ff-9301-57b38ce72212,1432,False,False
+Video Call,c6d684cd-1905-4a8b-8977-16536456ae50,65c75b74-6587-4c06-8e9c-1f54a5126905,2426,False,True
+Voice Call,8302e9ad-d689-4b63-9c18-a59a951b382f,853a516a-25bb-4c09-ad15-b7bca6134d4a,150,False,False
+Chat,7560530f-7bf7-4469-88f4-106ef2953a6a,da3a231c-a8c9-46ab-a7e5-d9e57fe8bc48,1191,True,True
+Chat,41cc1b21-4773-43cc-988a-146ea350e4f2,9d30bb5d-eeb6-43f7-a9f9-962625e53dab,14,False,True
+Video Call,7c9fc2a8-2395-4790-a66b-3565a0259d59,1624d7a4-49ae-4683-837c-bcc0d089b860,1683,True,False
+Video Call,28d45dc2-cc60-4752-85aa-39d8c8804092,5538ff41-1386-426d-a8fa-807fc1a9be64,1026,False,True
+Chat,501a310e-3428-428d-80e1-b9ac2fe13e93,b5af8f07-742a-4b7d-a395-331afe1e6098,2237,True,False
+Video Call,5e937042-9e2a-4ac9-aff3-4889482abff2,49f62305-bf89-4414-92cc-385eb6d63d5d,588,False,True
+Video Call,6550a74b-5b02-4f5e-a9aa-0d726f9237d3,06c7236e-5285-488d-8c0d-84e2da04f8ac,3044,False,False
+Chat,08f1e3c9-2414-4ea5-af85-e40201b2740b,477ee1fb-fe57-4d8e-b566-c76a75df79e3,3068,False,False
+Voice Call,6d7acd9c-84d5-4da3-8977-5fbe344ab26a,adf8adfa-e496-4e0c-8a5c-5c567ec9266d,2349,False,True
+Video Call,b89bcd5c-36d5-4868-b231-eeb8d05ab77f,d61c6298-d281-4ad5-b614-195246f0c23c,3331,False,True
+Voice Call,e266bfa9-4d27-4750-8f7a-f535745686fc,6491cc6f-ca79-453b-b2e9-f6356f3c2df5,2097,False,True
+Chat,50242fca-42ef-4ae3-9a0a-953ae1cea948,d172df65-de20-4ced-b77b-559dc2632d49,371,True,False
+Video Call,ff97ed7d-6499-4c33-b68f-ab321b4abf51,7a5e91d1-450f-4fde-a81a-73c4e1a21b30,2236,False,True
+Email,93172888-2da0-47e3-8ef9-909afb1d8b28,0b907946-0ee9-455d-ac4a-f6288001935e,33,True,True
+Chat,914b9975-cf68-4dab-91c4-e711c8a475ad,c831bd41-ac64-436f-81e1-00e6653cc593,1030,False,True
+Email,faf2153c-c4fe-4f7c-97d5-75c26960b30f,1122bbf8-27f5-4643-83c0-11651d77dbc0,2548,True,True
+Video Call,701b093f-7d9f-4fa0-a90c-6c7907197e0a,8d299631-b11b-44ab-aead-d42d516399d8,3337,False,False
+Video Call,8a3cda62-7477-4d91-8331-6b4920f4c592,92a3ea3f-eb7e-44d2-a4b4-6533b626b923,607,False,False
+Video Call,000a695a-335c-4ccf-b431-6f0a1a32b1a3,b27293fa-9b67-43b8-b4f2-3bfd04b7c440,3557,True,False
+Email,a7fe822a-2d8c-4e69-9d33-46a9a538802b,8014079c-1b10-4ca4-9d46-4d1837542b42,2128,False,False
+Voice Call,4fbdc24e-8cf4-456a-aea0-32fb7097d43a,17ed213a-e78a-43c1-85d2-1fdec44e776d,1867,False,True
+Chat,479cb45b-d881-4e3f-8474-bd692aa97c27,0ec8b388-b2cd-4ec7-b46a-2053e0a8fa9d,1899,False,True
+Email,a5149070-83e3-475f-8aaa-905ac88c99b9,ddb01f97-439f-4154-af70-27577eb394e8,2287,True,False
+Chat,bf61917d-2bcb-4438-ba56-ac8b81993e54,2542bf66-be48-461f-ba04-56d2aee21cd4,597,False,True
+Video Call,79f5d66e-7978-42c7-9ea3-7d9e55494ab8,5451459f-55de-4d9d-b072-9dc8efe2e187,2895,True,True
+Chat,b9a1cd7a-3c43-440c-90e6-fd8d73524981,fdcdc747-eceb-457c-8243-19882a13e43b,3420,False,True
+Voice Call,b6fb0c14-b2d0-4507-81ea-c5620219ed17,45d8d3d5-bdc2-4b61-95fb-0d7643a2be2d,3220,True,False
+Chat,e0b3a0de-e46a-4ee9-bbe3-26dbf97885ba,184dfa05-0328-47e8-a939-c5bdd0bdd431,2262,False,False
+Chat,28d5d874-dda0-4b55-b38d-730e70c90f5b,e426b196-0a91-471f-ac92-d17e23c18815,2378,True,True
+Chat,6c3c5461-4e7f-45f7-bf23-266845ee0294,9c716f1c-5f99-44e1-97b9-4378e393b15d,1493,False,True
+Chat,5e612fda-1366-46f9-a2b7-d40a554f7b0c,ebddaee0-3927-42a2-9aeb-aac026e396e8,2855,False,True
+Video Call,82689552-ce8b-4e99-817d-2d0ee8c25c78,01b863d8-7790-4163-bf2f-8814241a097b,1408,True,False
+Email,eb28cb90-8036-4402-bab3-2e26c4b909d8,360fb9a2-b69d-4a34-a3d4-bd2397cad3b3,2755,False,False
+Voice Call,3b68a5b0-0e41-4880-81ce-773b4dec4524,9316921e-456e-430b-94a4-ff7a4fb4079c,1236,False,False
+Chat,d5dbb3cf-81fc-4dd5-baf9-72777cce4777,f9a036ec-e1dd-4463-9b7a-fca3470c621f,2146,False,True
+Voice Call,f1aad0d3-8c90-4d25-9205-5f7981258d78,852c4eb4-827e-4bca-b3f1-9dd88fb52bc7,1406,True,True
+Chat,a7a4a703-7ea4-4f12-8e1a-65c0ae62ea62,128dae2c-9631-4747-8b5c-109894e0311b,2126,False,False
+Email,307eacca-008c-4b54-a2d5-18d3d81d4550,74e529bb-0694-406b-9383-adec112ad994,2048,False,False
+Email,b054efd6-acf0-45eb-94f1-a346f94f3764,c856df3b-e9d8-4761-accd-a91af9945d9d,2002,False,True
+Video Call,43f3ef38-5eb5-415e-a2b2-5a43660944ad,4c4a0d37-6ff9-4d99-8b48-b5646bf7ec30,477,True,False
+Chat,7f084bc9-a837-4cb4-9c64-7124656440e3,fec4c692-f65c-41ba-a0f7-bb347198ff1b,1714,False,True
+Email,bb3bc7cd-72f2-47bd-a7f4-beeacaf4cea2,4cad8b04-4507-442f-93f4-041107cdab73,2462,True,False
+Voice Call,79df237b-9c25-4c27-ad4a-6b1b5943a5ce,f6041255-67d5-4196-879e-f5920a4a0d98,2021,False,False
+Voice Call,d22cacf4-f453-4dbd-85b3-7ddc8229be7e,e5e46f27-818d-4ea0-b74b-568cad52af7c,896,True,True
+Chat,90e4352d-7c15-4d24-b710-ba538f9ef0e0,b1371773-58f1-40cc-bae7-4dffad47f8e5,1403,True,True
+Voice Call,c9fae0e3-9a83-45b0-b6c8-fea3b7c5a20f,701e0b11-95d6-4e79-8a31-4fe843c9ffa5,2572,True,False
+Video Call,d0f51cc3-f1d3-47fa-aa50-f9953ed87fb3,5fa7eea3-d511-4e28-b105-dc8a85cdba2d,2982,False,False
+Voice Call,31d8529f-c240-43bf-9586-374553075d00,4066fa58-1149-4e0f-8c25-791e1a6d7c20,1301,False,False
+Email,df811b41-fa9e-4d70-8e88-534bd0d8dc2d,e3439c77-0bde-4aea-b439-ce9c297972c7,1693,True,True
+Chat,a0bb0b75-78c7-445e-9864-36e0ddc26486,713ca0c9-09a6-4dfe-86eb-a536aac28960,1733,True,False
+Voice Call,091f1a9c-52b9-4533-aed4-088a1c5f7af8,66d55176-f689-44b8-898c-3fe647fe8d98,980,True,False
+Voice Call,757578c3-9228-4b0a-95e9-e26d852c1db7,70d70f12-39b1-4598-82ee-a959797c1172,1510,False,False
+Video Call,4f0bcd34-8982-49f1-bd8f-e96fe47cc3b4,e60c1994-2708-48d3-bbb4-1d6704f476a2,435,True,True
+Voice Call,dafe5595-a9c4-4e3c-9bab-d4349320fccc,ff99bc63-c8b9-4b33-bd19-692be950360a,842,False,False
+Video Call,07e863ff-1848-4e50-8885-04d94ec72bca,d4be8e9c-c7e9-4441-9fd9-40362f534207,816,False,True
+Email,e82ae83a-e6a0-4826-aa05-352aa862307b,543d6bf9-bc25-4906-a61f-8ea7c5a74489,2239,True,True
+Chat,ce68d6fc-2067-4095-a6c7-a60a4a7c4f79,90eb97ae-22a0-40ba-8445-249e55af71a4,2785,True,False
+Voice Call,1430b57c-000b-4a2c-a7d9-05cab81e5619,461a7562-88e4-4079-93a6-c37feea8e9b0,808,False,True
+Voice Call,0a092900-3e5e-437a-b616-ae3d31e36359,c84578cd-f3e8-4ea0-bd2b-75b12932b413,2733,True,False
+Video Call,65ce8cf6-4273-4edc-907e-7414668e2ecd,c82de92f-18fd-4d47-a275-a52b016cdd7d,1977,True,False
+Voice Call,b4c0fd9a-ddcc-46f1-900b-9a162e9cb563,afe96c3c-1ea9-4ec6-a438-dc6fa28d9c93,1852,False,True
+Video Call,30f6959a-910d-4575-af7f-6d89f169284b,a0705e5f-d555-45e6-87aa-c17e05cba3dd,1415,False,False
+Email,e76cb71c-f70b-4a86-b0d1-6cca490b9485,da8458ee-6f21-4240-a864-22e1d0fcb238,469,False,True
+Chat,35d25043-d874-4d69-804d-49f45ee44e55,c08db58b-0d5e-44a2-ae80-821c9316434e,1322,True,True
+Video Call,78626f01-6773-4565-afe9-258e14221e6d,016e6d57-2ca9-4f62-9fd1-c07940ced7b4,622,False,False
+Voice Call,870ce15a-b306-439d-9d22-75f883320716,5b1b6400-cedf-4e64-8cd3-5e3359875b9f,3379,True,True
+Chat,485fb724-719f-4a56-9ad6-924460dcd228,701a29cf-78c2-4596-8aef-dc069fb50164,922,False,True
+Email,d6e23e00-26ac-47c6-8bcf-8a3276091e75,99ea8c53-a86b-4136-b45f-7b766bd66e03,3398,False,True
+Voice Call,bde54cd2-5516-45a7-bc5c-9e3ddfa6a5e4,5f2c03a0-de0a-4399-8142-89a0a48e2795,2775,False,True
+Chat,8fdbc258-faf1-4991-846b-601c6d415a10,99efefbd-e446-4af7-a355-8fddaaf617a5,227,False,True
+Chat,08ff354e-cdc6-4c71-a46a-9430efb3ebc9,04de84a1-b88e-4792-830d-f2a839f7299a,2207,True,True
+Voice Call,db07aa9e-1e94-49b0-b4a2-5e5e03915b48,d2ad2a28-1c57-4a2b-bf13-6faf36fbd030,182,True,False
+Voice Call,1f3ed110-e382-420a-af30-92f246aa43ce,9eae4b94-845d-4ae9-9cab-9e001bc0963c,3403,True,True
+Video Call,c9afe338-52d6-480a-89e0-710ca00c3617,0619da9c-593c-41db-8dca-aa0e5ebe475c,1645,False,False
+Chat,9db0cee6-bdf3-47d1-931f-9050bab992c4,1bd999f6-1d86-40c2-81c1-8d51ae13686d,2713,False,False
+Email,a7ac887f-a0b9-4722-98c0-74610f94b36c,dbff66a6-336d-46d8-b9f0-7753fed525a1,336,True,False
+Email,a04e0521-2b36-4379-8ab9-e6166cc02fe9,096e8c36-a8eb-46d9-951b-b8ab233fafd6,2905,False,False
+Video Call,71b51935-1869-4f4b-8107-8a353fbf757a,4be9238d-bcbf-4d66-a64c-e5c6eb773d51,2941,True,True
+Chat,c9ff72c9-fe5c-44b3-964d-1707b1cd8d16,d52dc6bf-6861-49c3-8afb-d12fe58c1a1b,2599,False,True
+Email,56a287bd-7e75-4677-b923-571362482531,8842a395-fadb-4160-9c22-dd6c973318f7,807,False,False
+Video Call,bdc5d632-55d4-4c1c-886c-6315733c3e92,d04f831c-aeaf-4042-8d52-aff8fbd95e7c,1252,False,False
+Video Call,0b08c908-778c-4e86-ace7-45c4ca9f19f4,cff0ddd7-6e01-4c6d-8429-9a482efb7949,2146,False,True
+Chat,060773b5-f814-4f04-8961-e00fc4e113d6,39d06d5b-1d9e-4d54-9417-2ef5f2b73723,1814,False,False
+Voice Call,bfb905f9-6389-4c6b-a32e-9b11e8a5a113,fbb970d5-c0c2-43f5-900b-45f7ce40030d,385,True,False
+Video Call,b05d3fa7-c07d-416f-ab7b-5d9e934ed47f,3b20bcbd-f171-48dc-aea1-b17b95c90179,1174,True,False
+Chat,5b5cf983-da11-4de3-b70d-7348a54a7ea5,842bf0ac-42a9-4481-a3f4-6f1ee11380e8,3577,True,False
+Chat,28e0ac36-2867-451c-a85e-86d563e7395e,b8a7a982-5aec-4f7b-9a12-9cf4c10284d8,1730,False,False
+Video Call,f3fe0251-23f4-4f1c-b638-c533340e9be2,d2cdfc21-061a-4f05-ae0c-3fb99e114824,3180,False,False
+Email,5146bd08-f22d-4d7e-8865-5264c88f0969,669e89ca-8777-4e5b-ba7e-80c6d92c64d8,588,True,False
+Video Call,79fed0c6-0b06-4d6f-b448-6d526a361f79,21a4b6c7-0e7e-46ad-9d0e-2a87ed970c9b,1547,False,True
+Email,9e5ee4fc-25a0-472e-bfb3-55dce3692746,5f3312fc-a0a0-40cc-b2b4-1caec13e0cd0,675,True,True
+Email,fb81eb23-da9c-4f8e-930c-5e87afa646ca,6cfaeb3e-d978-4e38-abfe-5671d09e67dd,129,True,True
+Chat,69b35a67-8944-45e3-957b-649afbc55bb4,39963dc0-3449-4aed-a306-85c32864b1a2,2203,False,True
+Voice Call,1816cad1-ab3a-474b-a29b-4e469f7e4589,fe28bc92-b40b-4e43-a124-90038270daef,3212,True,True
+Chat,d3608d4e-f815-4f56-a5d1-bd04a8095098,f89c37b9-1520-434f-9b36-4883edc331c2,862,False,False
+Voice Call,075db5bc-c880-4796-8068-b2fa36d3dac2,f5a1ae80-22f3-44c6-a82f-1f6996554392,3517,False,False
+Video Call,9dcbfbc0-97e6-4a35-8146-7238fa1ef865,1721268c-9137-41d5-a735-73df7c126847,1076,True,False
+Video Call,43119246-ac5c-4fd6-b4bc-13312562791a,c552cd83-35fd-4b5d-9afc-c9ebbdddae5c,3298,False,True
+Chat,bdd614a6-1d29-4e1c-b549-d85fb353dbb5,e192a585-beb6-4fb5-b5f1-b7ad98ee598d,806,True,True
+Email,b1981b51-2392-47e5-8e81-fbde1718a497,2be3e63b-bf98-426d-ae68-ecfc4c9adbfd,1345,False,True
+Video Call,2acf193c-6a10-45dd-9fc8-ad96fa45f6cb,20ddce2b-9f17-4cee-bda1-a99bb4ea8281,319,False,True
+Email,386b87f1-481d-482a-a1d5-d127c3f20010,70e74ef6-bb74-4c5c-bde1-ae414ca448b4,2030,False,True
+Video Call,f9300790-c21a-4e1c-bfbe-22772bdbc658,ff3f23cc-1e77-43db-b241-b58149bba313,2532,False,False
+Chat,a8d5b56a-7d75-4554-b300-a3edafa26a5a,6c5866c3-117d-44d1-8907-ebee4b67a004,763,True,False
+Email,e6059e33-ed7a-4352-8b6b-c0c0802ea2e1,460f4721-2c6d-4af1-b17b-7ba25ace460f,354,True,True
+Video Call,8f9cacfd-a6e1-472c-9c95-59b603afec9e,ac03dd78-37ec-4328-bbb5-e4adc45af512,1201,False,False
+Video Call,14b3a832-50ab-4c3d-9678-0c890826c5a3,5305b2c7-56bc-41df-8c70-8e252e6da5eb,136,True,False
+Chat,d9905612-64ff-41b5-b359-c970a2d827f7,86c44b2c-1988-4077-936f-303b620d1a5a,146,True,False
+Chat,d9eb8f8f-3438-402a-8e67-f016d93dc6f1,34bf9bc8-1f56-415d-b622-271d17ff8e4c,2339,False,False
+Email,6d98d802-b063-41f3-b12c-85ff256d8a56,99d8f57a-5f26-4511-b588-24cd6dbdcbbd,2399,True,False
+Chat,4fac7a65-0d10-4142-8844-e372b617d34b,da0c23e2-6827-4f24-9c3e-2907dbd6e3c9,1067,False,False
+Email,3af476b6-900e-4a19-bf80-2c5bcaffb7a2,f8b43392-62f6-4d07-a225-6c613512d777,3034,True,True
+Video Call,2c726217-6c4f-4f7d-95f9-95a7d945f980,3965908a-19b6-409f-b0a4-1e5358f6c44a,137,True,True
+Email,db4538fa-f7f4-40dd-b60b-ce42cc8d480c,cbe69628-8022-402a-9d2e-498fa8430040,1722,True,False
+Video Call,bdc72c07-8ca3-4d7b-ad97-33d31028494a,a4de848d-c47a-46de-bc17-99a55ba1bacd,2586,True,False
+Video Call,9254a91b-5f82-4028-b2d5-550e64aee7a1,6af6490f-42f4-44d2-a050-73dbadcd9301,889,True,True
+Email,2af6a942-4928-4eb0-9b25-4ae1e5872faf,586383dc-9a96-40eb-9f39-d839c633a8a5,2808,True,True
+Voice Call,b3c3166b-ce73-485a-af51-03eb4cde85d9,56d4b75f-32d7-4117-a0ab-5d77d1b17277,93,True,True
+Voice Call,d21ff2ac-f5ff-4c5d-80e1-8216d5393ed4,d7b487f4-f7c9-4f81-b92a-ca13b770c628,2007,True,False
+Chat,9cc56a1b-3944-4f20-98dc-365a1c3b0946,91eacbcf-1aa4-46bd-9ed6-15ab72cf7781,2799,False,False
+Chat,4c223148-a99e-45e1-90ae-0d1336db715c,b06f65da-e486-4bc0-964b-eb981b86cd16,262,True,True
+Chat,64e8e431-59ff-4425-a947-a8f3c4791644,cec114c9-dc26-403b-9d19-802b3de989b5,2638,True,True
+Email,c92fcc0b-b9c8-45a9-b5ae-da3342e1b6f9,e1e95dfe-5aa3-4a68-8e61-85b3c1e48963,3409,False,True
+Chat,4cc79365-356b-4d83-a8f5-21b2667e7a19,c1304f09-dc97-4d45-a9d0-93446af48aa6,662,False,True
+Voice Call,439f4e2a-e23b-47d0-8256-75e1172f3969,83b47647-7f75-4a03-b9e2-184bd79c8f2b,2036,False,True
+Video Call,f52afc95-d5f7-410d-9556-109ae877601d,67401d7f-1d1f-45ec-9e68-767caee9bd6f,363,False,True
+Email,b9d9611b-4f27-4447-bd77-8d541a80d9c0,c8ea19f7-7c29-4a03-bbe6-d3a85386a9ec,3356,True,True
+Voice Call,24ed8d82-ee84-4664-bda1-6ece2b705978,b14603bd-915d-4ca3-a931-ea0f0a6d19a3,2772,True,False
+Video Call,79de7497-0e15-42a2-bdf9-df7beb5f99ee,e343b415-c5df-4659-8d85-217c19ba06c1,1733,False,True
+Chat,74c89641-6402-4853-a531-45a7f93036f4,61c03678-75d1-44cc-a5d2-2ba37aef0ed1,1422,False,False
+Video Call,ab434d38-1ead-479f-b084-f261b1977f5a,a9872357-79f4-4723-8935-1556cc838ab4,1035,False,True
+Video Call,c14d624e-400f-405c-8a9c-8587cac6a206,8145e738-a518-469b-b93e-f588ac1ad314,701,True,False
+Voice Call,ac7159df-61ad-45fc-942b-29254de688e3,6dbaab6a-ce03-4062-8d45-c8099ca71ed3,2528,False,False
+Email,fe4bc45e-e2a6-4b13-9af3-4b58c18c4dc3,e1907e5a-e5e5-4498-9c2d-36118032fd0f,1787,True,False
+Chat,e0085c0f-95d1-4d76-88cb-dceec518501b,972a677c-7253-4d40-ac1a-56d160a42f70,14,True,False
+Email,06f86372-5f31-45f2-bedd-da19459b3741,ebe132b8-00a3-4e65-873a-fd2da7d82f52,262,False,False
+Email,4d5b8907-78ba-41f2-8f0c-3ae0646ffd6e,0679c81a-9c71-4bce-b62f-a04b2a9b8ddd,1682,False,False
+Video Call,47a0b5f6-194e-4e7f-bdd5-d6dd14d50f65,eae8840a-412a-42f5-8713-65937edef811,1927,True,True
+Voice Call,ae75034b-92f0-4765-8488-4bbb4cbd25c3,71766729-a631-4261-86e8-934334ef23e1,476,False,False
+Chat,7f4c9710-e6b4-49df-9bf4-9ecb74cb60d8,cf5e3b47-ec8c-48c9-895f-359d8247b329,1772,True,False
+Chat,e6429482-4141-4b4c-a9ea-85628928c35d,f4306fc4-9473-4af0-abcd-da597e6a4276,2915,False,True
+Video Call,29f60257-3adc-4676-8183-4e2826f9def7,8bc97c50-f184-4dd7-a441-efc37354eecb,1560,True,True
+Video Call,3d09b548-1e5b-4f8b-bf15-85fb37ddf109,535b0ad7-56eb-414a-93d7-7082c7f14685,1838,False,False
+Email,a58a0c97-6344-4167-92d1-4c93a4b5479c,a65b0462-c1a7-404d-801b-d5e7ade048c9,3409,True,False
+Voice Call,b275a957-3125-41a2-8730-dfb2ba20ee36,c35275c6-6353-418f-bc3d-8aef25c5af47,2765,False,True
+Video Call,2ed89aa3-ad3b-421f-8af3-e284325c0f40,864cda87-9913-44c2-a6ed-6eebd0f68772,1158,True,True
+Email,51893523-c8c9-4c84-b51b-8d5c5c7abf1f,535fdaca-0946-43c6-afb1-a14a53417b4f,2611,True,True
+Voice Call,f4c669f5-2998-4128-bda0-e7cda759d9c5,2f2074e1-106e-491b-a0be-b12da1c946d2,1615,False,False
+Email,735e7f47-e401-414d-90f5-13a958010a0b,7e6d10ba-ef98-4eed-a1f8-aa29dbd70371,3309,False,True
+Email,11507900-d013-462a-abfb-5255d8c78400,c02d86f6-a34b-4f11-aa3b-e3cbdf91c8fa,3221,True,False
+Chat,4410ce23-cb8b-4b34-a70d-13041a7965a5,6d727d05-ddbf-42f0-ae2e-4d666f8e9de7,393,False,True
+Email,40dd4708-c04d-4cb7-b40f-e25c7c1b20de,cf55b032-0722-4dd8-9c5f-3c4d3abf349e,238,True,True
+Voice Call,6f96def3-a3aa-43ea-82c5-5fc7f39a4a5d,0a5ee05f-7f51-4e99-9518-8909cb130c29,3309,True,False
+Voice Call,c312e2ce-53e0-42d1-afad-adfaf58e0638,e732747c-d659-4825-aca4-0fd19b72830d,3172,True,True
+Email,1d34baa8-0da1-4dde-b233-4ffd62a7425a,7c79cf50-9a42-42c2-9e98-6e99f3e6cc0f,1370,False,False
+Video Call,7e7aaefc-5e3c-4aee-b9bc-76c78555f177,a3ba9a24-714c-4d91-82d4-e15d1437e288,3393,False,True
+Chat,bf95c160-825c-42a0-8068-0c7c252a5543,43fc4641-4cda-4865-a7fe-d8bc1a878665,2162,False,False
+Chat,587fecfa-f630-484a-a900-ac528fdac186,fdfbde33-eeff-4407-8e0f-15f24c0cde93,1179,True,True
+Video Call,1713c63e-a3df-4fd7-82ae-d0aef92a98d3,cd1a6bbb-7f95-424a-9ed7-9f7ce4215557,599,True,True
+Voice Call,f7d1dcb1-4249-4cc1-959c-118242f19d99,0d1b53a3-5648-4d13-862e-5362fd7de817,1676,False,False
+Chat,81465f8c-19d3-4507-90ad-d67f1de30054,710471ef-5fd0-4d60-a19c-3c29889eeff0,3144,True,False
+Chat,551ea0a0-3f31-4f03-a0c7-89d7ba9105d8,171c8992-95d1-4565-84e1-9769b44bbd4c,2921,False,False
+Email,54a4c6b1-9882-45c6-9678-798e3d971896,70638833-4532-4472-a379-ea9c964adfae,2343,True,True
+Email,6989c913-1eb3-47b0-a430-94abe2710787,87552b2b-d8b3-40fa-83aa-a54862c04366,3363,False,True
+Voice Call,a7ed668b-186f-4995-9494-80e36358679d,2f1cdf8c-27c8-48b6-9571-0b29d93c831d,475,False,True
+Email,34f7d8bd-cae2-48a2-8404-132abfbb3679,45c4eebb-4017-419b-b33e-962bee97c490,3194,False,True
+Video Call,675702b0-cb6a-49cf-8719-7ec36324d1e0,c2d6b4dc-ed1c-47ae-8907-fa92149ef19b,3171,True,True
+Email,0e624d44-5e17-47ed-8671-9c2620435f80,ef5397eb-32c5-42a5-bec0-8c926fc0c424,1608,True,False
+Video Call,88c70de0-ac91-4ac1-9598-8566bb8f7d78,97732661-2957-49df-880a-0c6c417772cd,3269,True,True
+Voice Call,1cc5504c-e3a0-4001-8e1f-78bf04cf18f2,ebb70b11-29a4-4f0a-8f2b-36b85508a984,2451,True,False
+Video Call,4ca1fecb-d047-4f3f-886a-6cf5b25523a4,b30caa58-5863-4c80-85bd-a20438eb474c,291,True,True
+Chat,dc74cd1c-d5d7-481e-9e72-a1a77cad3565,f782c79c-3bba-4e97-b77e-88c0bfbeee24,1489,False,True
+Email,f7a081c6-5c2b-46fc-bc76-de199040ca80,aeceeef7-7b44-4a54-9743-57b125e704e9,2970,True,False
+Video Call,f03fad1b-9684-4246-89d9-213fdc19eb96,9aa61b5e-978f-404b-ae84-a04d1f243dc0,131,False,True
+Video Call,ae2c1da2-67f0-4578-83cc-29da0cc64d15,3dbf9d18-3a10-4f67-9469-98290840feca,2866,True,True
+Voice Call,8dc77b37-1c10-4d91-acd7-f5cb6a3f47ef,58c0fb60-03b8-4f81-9299-3930f2e1feb7,1273,False,True
+Voice Call,160e9e9a-d52d-434b-953a-3c2c753b278a,cef0f799-848a-414b-a1c6-0430030bde7e,2483,False,True
+Chat,8cc334e5-f063-402b-83d3-423f4a58a437,6dcd14c0-d173-4fa9-8522-382a6e29bc5b,982,False,False
+Video Call,2aca7294-8f34-487e-b055-e83af8fcbb48,8fc68483-aadc-46d7-a7da-9d750391ed9a,2262,False,False
+Video Call,05e98365-d98d-4c0f-b68a-0c6bb8b2f8e8,850601ee-98c0-4ce1-b458-fdfb35c346f3,1749,True,False
+Email,08650415-03f2-4af5-a6e9-8667363e7419,02b9a753-d4d3-4ee3-8def-6691944427e6,749,False,False
+Email,ea2f18b7-dddc-4a99-a666-98d900a38ab1,b9222725-8601-4820-8f37-1c235c6af155,3372,False,True
+Email,9f6d7876-53f3-435c-be47-27241e7a13a2,e09603a9-4744-4aac-b5c7-e3b25b2bb345,898,True,True
+Video Call,9b5e40be-a04e-4e19-ae8a-80f34c331cf3,c8730b85-3fc7-49af-939c-922fa8cb5af3,1264,False,False
+Chat,203a9f3f-fd9b-4bea-84fe-b1366c2076e2,ce6e11f6-5f7e-4bd9-b03e-e800a2f1f34f,3249,False,True
+Voice Call,22f07fe0-ff61-44dd-95d8-67a96c1b6916,1640c896-0022-4ae3-8a76-dc586f072fa3,1632,False,True
+Email,d01b1b86-f481-4dd7-ab7f-cfbc8d727863,04a6cdb0-9685-44e8-aacc-56d7d68f18e5,3292,False,True
+Voice Call,85f4a5f8-07e7-41b6-8f6e-484152569d86,a1b531c2-e093-44ae-9de1-fb0eefa48f52,747,False,True
+Video Call,e82acff1-45ae-44c9-84b9-892cc36c4243,995c4c4e-3dc7-4715-a7d6-7c19a7af39f2,1700,False,False
+Video Call,33f66658-5dab-4348-b09e-f0770f305a9f,62ff3b49-e6bc-421e-b2a6-623b096aec81,930,False,False
+Voice Call,5e09548a-1778-4887-93b0-2203958ea257,0b4f2cb8-c050-4825-b93a-4f180c6e6ab6,1313,False,True
+Email,25deb744-f404-43b6-8ec2-901eca638c73,6b59e2e9-3569-4d4a-8e7a-7313ec04b0c4,945,True,False
+Video Call,85bba177-1ae4-4535-9914-e37a879e159e,e2a1d23f-20c3-4854-9cc2-ab5e8f989839,3596,True,False
+Voice Call,f93be760-3dfa-493b-8926-ada0b365c2b1,f832ae97-7260-4c41-b5e9-5c978c5f551b,1259,False,True
+Voice Call,648f74de-4ae5-4405-b6f5-a6deb529c4f3,fc20b943-a5ff-49f8-8cc0-22821f4d0fa4,1320,False,False
+Chat,61401d44-d3d9-4912-8979-ff9d9a6faade,712222d1-a758-4eff-9511-2634b93e8152,1697,False,False
+Video Call,6baf94c3-ec2b-49a9-9f7d-c493934e9a2f,bb7f0e22-d1be-43bb-8921-be54ee3e38aa,2758,False,True
+Email,577ef507-3a4b-433a-8ac1-45c2527d1b87,2210e7fe-ebaf-470c-a7ff-dc1c6f26a937,1110,True,False
+Email,edd6d936-0926-4295-8398-f3c6d665ad3e,550c4e51-ee24-42ca-b1a4-1e77e3bdb985,1245,False,False
+Chat,d78f1843-d785-4876-82df-9acb5ace7c09,8afe0014-ce08-467f-9608-37f00f58fa52,3462,False,False
+Chat,cdd4c5e8-3d38-4f5b-8d38-6a1a7115bef6,a939779d-bd7d-40b3-a2e0-072e4e36215c,1361,False,True
+Email,3d1fbf1a-6d9f-4e40-9cea-fada0852ac72,ce41bf48-e3ac-471d-92e2-b326e21f3b56,1639,False,False
+Voice Call,721b3ec4-4c4d-458b-a8fa-98f09cad2634,bae17f62-1501-45f5-be1f-646c41e11e88,3089,False,True
+Email,49d94475-2eff-4ce7-b1f8-8eec20bc1372,380c2ef5-c791-477c-847f-4a1f7f82a86d,1753,False,True
+Email,374308d2-96b8-4341-a065-6878f69ae974,269a97c8-54d8-4a89-b8be-27a238f0f0ff,339,False,True
+Email,fe6048a5-e01d-4777-b95c-5cd58de81b21,653a0343-c944-4e3b-987d-d61fdbb4798e,1288,True,False
+Chat,a1c0a490-3f17-484f-8797-e60af5ffc55f,6f37deef-56e0-4abc-afa5-cf04e415942d,3242,False,True
+Email,619a8b5e-3443-4652-8e9e-66e789a7ed16,a55a73c3-ad03-4e5b-a5d4-fe8cb619f5ad,633,False,True
+Voice Call,2de8cb26-6307-439a-90b3-c3e7eabf482b,8875b038-82fe-4ae1-967f-f6b9f4b8a8f7,1586,False,False
+Chat,37cf2aaa-a01a-43b5-88be-515e4f81759a,21d0123f-04ad-48e3-8fe8-11f34ab54287,1571,True,True
+Voice Call,a7d7ddb4-43f5-4578-a03f-87ed09f98247,91cfd72c-a511-4feb-a885-11b993d39ded,1108,False,False
+Video Call,3bc00f4e-91af-4648-b274-67f49382d898,c1d5d013-facb-4644-bc9e-d79dced844ea,987,True,False
+Voice Call,06f1d6f3-59e1-49ee-a46d-dbc459e19797,f27288f5-13dd-4a54-a80f-0365039b1e8d,2362,False,True
+Chat,fbc666b3-de3b-4585-a993-dafd7319539e,da9dcdbf-ca0a-41fe-b983-8b036308d9e5,419,True,True
+Voice Call,8d54125e-51c4-4556-86e8-c1bfc1aa92fe,86e39dd6-5eb3-48a7-9560-4a0fa4fa42bd,2265,False,False
+Chat,54f8867e-e813-4112-9fb1-0bb3b3b33115,655cdad3-4309-4256-beb7-2b7de8b53315,2070,True,True
+Chat,26720da0-0e6f-4e96-ba70-eaf321042072,15b70648-f60e-48c2-9c2a-6357da5e16e0,125,False,True
+Voice Call,2c8ff7ac-6cb8-4596-81d9-fcab524b28e5,0b042c18-ee70-4438-b312-1cdab6c90287,2278,True,False
+Voice Call,6a8f1f28-ea30-4b73-a203-dbbf96f578a3,7632efc5-d5ae-4a4e-957d-03b91c16c13f,3065,True,True
+Chat,012b1767-8876-40e3-9314-18d4f1fe1744,d83aab7d-cdc7-4fda-9d3c-59ea5a21afc6,1622,False,False
+Video Call,8762d25d-8320-403b-8a74-4e8a2e0856d9,ab63ff56-8313-4ad4-a53d-bcbb97327708,2180,False,False
+Voice Call,63365e74-46c9-449f-9bb1-4a9aca76ce69,6a9df43d-3736-4a50-8898-c5714db30635,2403,True,True
+Chat,0431e367-8958-40a8-b33f-f76a5e99f1bd,9599ac73-5965-48e4-a33d-4b57c164dc83,1551,False,True
+Video Call,c4e5951b-dd71-4cdd-92fc-54d0589226c3,b22e229f-4c51-4e8a-b71e-2da96b84fdc3,3218,False,True
+Video Call,40915cd7-c569-4a6a-bef4-0706ce78c463,77fec213-bd30-4663-bdf2-2d9d1bfe3960,1390,False,False
+Chat,252c4c4a-5abd-4d30-9da6-31d362751cda,857c3d64-38ec-4937-80fe-bb172aeb9c80,2666,False,True
+Video Call,d0375768-6213-4236-91bc-cceeacb03805,1062702a-5865-4ec3-a32d-bf1b4f19b40d,2866,False,True
+Video Call,77e61805-38b3-4e94-8bc4-fb2514a3aba3,ed281f93-e79c-4279-9e77-2c62ca692504,1058,True,True
+Email,4573f1ed-d99d-429f-802a-dc9c2f7a4046,4285c99c-b8e1-4fc9-bf32-48d67c964447,2925,True,True
+Voice Call,1993195a-ad12-40c8-abff-0f082f00ae39,122630c5-8f6b-4efd-8927-682fad0b0f8f,1220,False,True
+Video Call,571047a4-ce77-484e-b774-72e275df68d2,d8f851a3-21b4-4b4b-98c4-d94f4605fca8,852,False,False
+Voice Call,7516d5f9-8898-4a79-a1c9-9b93166a7c70,beb0fcd1-dbee-4a20-b4ad-486aaf017a67,384,False,True
+Video Call,58a48700-fc0a-4d0f-8626-25ca1375676c,85b5ea76-3e99-464a-a3fa-7df1f76e3ce5,2587,True,False
+Email,2a628041-d5d0-4e62-8dec-ca34854a348b,d9a3774f-44fa-4aaf-abd3-b5e5023e6af9,662,False,False
+Chat,9fbafbe5-0c7c-4a59-931f-e476ef02dc73,5fdb02af-1053-4e2b-903b-6fa43580f2ee,2612,False,True
+Video Call,0fa7ce5e-1593-4474-a51e-08693d49ac36,d708bae5-38c6-4cef-880d-5fd4b2921bd5,551,False,True
+Chat,8ee8d2d1-7988-4cc3-ade3-88ba47b56a1f,dc64d85b-bd4d-4b78-8709-98c7fe520c7b,2291,False,False
+Email,67981171-97bc-4628-861b-64788f90f3f0,495a5da3-7ff3-4997-9e24-503a09197003,2386,False,True
+Chat,1bf660a6-94c4-45d4-aa80-5611fe8bc981,1403a1ee-f436-461b-99b5-a6eb38b08a69,1387,True,False
+Email,68ddeea9-4c89-434e-a7e0-aef0fd3fa5a4,aff78b98-fc71-4dc8-9743-cbbb6830ae0d,1978,True,True
+Email,9a73d76d-311c-44a4-bec4-ba7d1ebced1d,b0621c77-2f38-4e54-8c8d-fbaa2f36e5fa,36,False,True
+Email,c181f21a-0405-45d9-8719-da6b93c3f7cc,c8716917-0b8c-4717-9c08-7eab04093683,1847,False,True
+Chat,4e58bf2b-a77d-497f-9f71-b7ae92075fc8,f6574a54-7825-40ae-84b6-4ce14dd08442,1587,False,True
+Email,fe5fb0b4-ab10-4c6a-a10c-66c54fa59022,6a0d1f6f-7fcf-469f-8a5a-e1861cb54f00,2665,True,True
+Email,1d59ad72-14f3-4703-bda4-b87ee238da9c,bed3c00b-99a9-4822-9f7c-e1afe6b2d823,1280,False,True
+Email,623beb5a-f2be-48ad-9585-20140bd331bd,89fae046-f94e-4c4a-b9ed-eac9da4e3616,1896,True,True
